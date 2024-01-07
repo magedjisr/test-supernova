@@ -1,0 +1,39 @@
+
+:root {
+    --measureDimensionSpacingSpacing1: 2px;    
+    --measureDimensionSpacingSpacing2: 4px;    
+    --measureDimensionSpacingSpacing3: 8px;    
+    --measureDimensionSpacingSpacing4: 12px;    
+    --measureDimensionSpacingSpacing5: 16px;    
+    --measureDimensionSpacingSpacing6: 24px;    
+    --measureDimensionSpacingSpacing7: 32px;    
+    --measureDimensionSpacingSpacing8: 40px;    
+    --measureDimensionSpacingSpacing9: 48px;    
+    --measureDimensionSpacingSpacing10: 64px;    
+    --measureDimensionSpacingSpacing11: 80px;    
+    --measureDimensionSpacingSpacing12: 96px;    
+    --measureDimensionSpacingSpacing13: 160px;    
+    --measureDimensionRadiusNone: 0px;    
+    --measureDimensionRadiusRound: 100000px;    
+    --measureDimensionOpacityDisabled: 40px;    
+    --measureDimensionRadiusXxxSmall: var(--measureDimensionSpacingSpacing1);    
+    --measureDimensionRadiusXxSmall: var(--measureDimensionSpacingSpacing2);    
+    --measureDimensionRadiusXSmall: var(--measureDimensionSpacingSpacing3);    
+    --measureDimensionRadiusSmall: var(--measureDimensionSpacingSpacing4);    
+    --measureDimensionRadiusMedium: var(--measureDimensionSpacingSpacing5);    
+    --measureDimensionRadiusLarge: var(--measureDimensionSpacingSpacing6);    
+    --measureDimensionRadiusXLarge: var(--measureDimensionSpacingSpacing7);    
+    --measureDimensionRadiusXxLarge: var(--measureDimensionSpacingSpacing9);    
+    --measureDimensionRadiusXxxLarge: var(--measureDimensionSpacingSpacing10);    
+    --measureDimensionGapXxxSmall: var(--measureDimensionSpacingSpacing1);    
+    --measureDimensionGapXxSmall: var(--measureDimensionSpacingSpacing2);    
+    --measureDimensionGapXSmall: var(--measureDimensionSpacingSpacing3);    
+    --measureDimensionGapSmall: var(--measureDimensionSpacingSpacing4);    
+    --measureDimensionGapMedium: var(--measureDimensionSpacingSpacing5);    
+    --measureDimensionGapLarge: var(--measureDimensionSpacingSpacing6);    
+    --measureDimensionGapXLarge: var(--measureDimensionSpacingSpacing7);    
+    --measureDimensionGapXxLarge: var(--measureDimensionSpacingSpacing9);    
+    --measureDimensionGapXxxLarge: var(--measureDimensionSpacingSpacing10);    
+    --measureDimensionSizeSize100: var(--measureDimensionSpacingSpacing1);    
+    --measureDimensionBorderWidthXxxSmall: var(--measureDimensionSpacingSpacing1);    
+}

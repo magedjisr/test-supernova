@@ -1,0 +1,7 @@
+
+:root {
+    --shadowBaseBoxShadowContainerL: 0 4px 6px -2px rgba(16,24,40,0.03);  
+    --shadowBaseBoxShadowFocusBorderPrimary: 0 0 0 4px rgba(209,224,255,1);  
+    --shadowBaseBoxShadowFocusBorderGray: 0 0 0 4px rgba(242,244,247,1);  
+    --shadowBaseBoxShadowFocusBorderDestructive: 0 0 0 4px rgba(254,228,226,1);  
+}

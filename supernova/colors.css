@@ -1,0 +1,372 @@
+
+:root {
+    --colorBaseColorsBlack100: #0000000d;    
+    --colorBaseColorsBlack200: #0000001a;    
+    --colorBaseColorsBlack300: #00000033;    
+    --colorBaseColorsBlack400: #0000004d;    
+    --colorBaseColorsBlack500: #00000080;    
+    --colorBaseColorsBlack600: #000000cc;    
+    --colorBaseColorsBlack700: #000000d9;    
+    --colorBaseColorsBlack800: #000000e5;    
+    --colorBaseColorsBlack900: #000000f2;    
+    --colorBaseColorsBlack1000: #000000;    
+    --colorBaseColorsWhite100: #ffffff0d;    
+    --colorBaseColorsWhite200: #ffffff1a;    
+    --colorBaseColorsWhite300: #ffffff33;    
+    --colorBaseColorsWhite400: #ffffff4d;    
+    --colorBaseColorsWhite500: #ffffff80;    
+    --colorBaseColorsWhite600: #ffffffcc;    
+    --colorBaseColorsWhite700: #ffffffd9;    
+    --colorBaseColorsWhite800: #ffffffe5;    
+    --colorBaseColorsWhite900: #fffffff2;    
+    --colorBaseColorsGrey50: #fcfcfd;    
+    --colorBaseColorsWhite1000: #ffffff;    
+    --colorBaseColorsGrey100: #f9fafb;    
+    --colorBaseColorsGrey200: #f2f4f7;    
+    --colorBaseColorsGrey300: #eaecf0;    
+    --colorBaseColorsGrey400: #d0d5dd;    
+    /* base color */
+    --colorBaseColorsGrey500: #98a2b3;    
+    --colorBaseColorsGrey600: #667085;    
+    --colorBaseColorsGrey700: #475467;    
+    --colorBaseColorsGrey800: #344054;    
+    --colorBaseColorsGrey900: #1d2939;    
+    --colorBaseColorsGrey1000: #101828;    
+    --colorBaseColorsBlue50: #f5f8ff;    
+    --colorBaseColorsBlue100: #eff4ff;    
+    --colorBaseColorsBlue200: #d1e0ff;    
+    --colorBaseColorsBlue300: #b2ccff;    
+    --colorBaseColorsBlue400: #84adff;    
+    --colorBaseColorsBlue500: #528bff;    
+    /* Brand color */
+    --colorBaseColorsBlue600: #2970ff;    
+    --colorBaseColorsBlue700: #155eef;    
+    --colorBaseColorsBlue800: #004eeb;    
+    --colorBaseColorsBlue900: #0040c1;    
+    --colorBaseColorsBlue1000: #00359e;    
+    --colorBaseColorsLightblue50: #f0f9ff;    
+    --colorBaseColorsLightblue100: #e0f2fe;    
+    --colorBaseColorsLightblue200: #b9e6fe;    
+    --colorBaseColorsLightblue300: #7bd3fe;    
+    --colorBaseColorsLightblue400: #35bdfb;    
+    /* base color */
+    --colorBaseColorsLightblue500: #0ba5ec;    
+    --colorBaseColorsLightblue600: #0084ca;    
+    --colorBaseColorsLightblue700: #0084ca;    
+    --colorBaseColorsLightblue800: #0169a3;    
+    --colorBaseColorsLightblue900: #0b496f;    
+    --colorBaseColorsLightblue1000: #072f4a;    
+    --colorBaseColorsPurple50: #faf8fc;    
+    --colorBaseColorsPurple100: #eae0f1;    
+    --colorBaseColorsPurple200: #cab3dd;    
+    --colorBaseColorsPurple300: #a780c6;    
+    --colorBaseColorsPurple400: #844daf;    
+    /* base color */
+    --colorBaseColorsPurple500: #69269d;    
+    --colorBaseColorsPurple600: #4f038c;    
+    --colorBaseColorsPurple700: #480384;    
+    --colorBaseColorsPurple800: #3f0279;    
+    --colorBaseColorsPurple900: #36026f;    
+    /* brand color (Maken) */
+    --colorBaseColorsPurple1000: #26015c;    
+    --colorBaseColorsRed50: #fef3f2;    
+    --colorBaseColorsRed100: #fee4e2;    
+    --colorBaseColorsRed200: #ffcdc9;    
+    --colorBaseColorsRed300: #fdaaa4;    
+    --colorBaseColorsRed400: #f97970;    
+    /* base color */
+    --colorBaseColorsRed500: #f04438;    
+    --colorBaseColorsRed600: #de3024;    
+    --colorBaseColorsRed700: #bb241a;    
+    --colorBaseColorsRed800: #9a221a;    
+    --colorBaseColorsRed900: #80231c;    
+    --colorBaseColorsRed1000: #460d09;    
+    --colorBaseColorsGreen50: #ecfdf3;    
+    --colorBaseColorsGreen100: #d1fadf;    
+    --colorBaseColorsGreen200: #a8f2c6;    
+    --colorBaseColorsGreen300: #6fe6a7;    
+    --colorBaseColorsGreen400: #36d183;    
+    /* base color */
+    --colorBaseColorsGreen500: #12b76a;    
+    /* base color */
+    --colorBaseColorsGreen600: #079455;    
+    --colorBaseColorsGreen700: #057747;    
+    --colorBaseColorsGreen800: #075e3a;    
+    --colorBaseColorsGreen900: #074d32;    
+    --colorBaseColorsGreen1000: #022c1c;    
+    --colorBaseColorsOrange50: #fff8ed;    
+    --colorBaseColorsOrange100: #feefd6;    
+    --colorBaseColorsOrange200: #fddcab;    
+    --colorBaseColorsOrange300: #fbc276;    
+    --colorBaseColorsOrange400: #f99d3e;    
+    /* base color */
+    --colorBaseColorsOrange500: #f68119;    
+    /* base color */
+    --colorBaseColorsOrange600: #eb670f;    
+    --colorBaseColorsOrange700: #c04c0e;    
+    --colorBaseColorsOrange800: #983d14;    
+    --colorBaseColorsOrange900: #7b3413;    
+    --colorBaseColorsOrange1000: #421708;    
+    --colorBaseColorsPink50: #fdf2fa;    
+    --colorBaseColorsPink100: #fce7f7;    
+    --colorBaseColorsPink200: #fccef2;    
+    --colorBaseColorsPink300: #faa7e5;    
+    --colorBaseColorsPink400: #f670d2;    
+    /* base color */
+    --colorBaseColorsPink500: #ee46bc;    
+    --colorBaseColorsPink600: #dd259d;    
+    --colorBaseColorsPink700: #c01680;    
+    --colorBaseColorsPink800: #9f156a;    
+    --colorBaseColorsPink900: #84175a;    
+    --colorBaseColorsPink1000: #510634;    
+    --colorBaseColorsRose50: #fff1f3;    
+    --colorBaseColorsRose100: #ffe4e8;    
+    --colorBaseColorsRose200: #ffccd6;    
+    --colorBaseColorsRose300: #fea3b4;    
+    --colorBaseColorsRose400: #fd6f8d;    
+    /* base color */
+    --colorBaseColorsRose500: #f63d68;    
+    --colorBaseColorsRose600: #e31b53;    
+    --colorBaseColorsRose700: #c01046;    
+    --colorBaseColorsRose800: #a11041;    
+    --colorBaseColorsRose900: #89123e;    
+    --colorBaseColorsRose1000: #4d041d;    
+    --colorBaseColorsYellow50: #fefbe8;    
+    --colorBaseColorsYellow100: #fef7c3;    
+    --colorBaseColorsYellow200: #feeb8a;    
+    --colorBaseColorsYellow300: #fdd947;    
+    --colorBaseColorsYellow400: #fac315;    
+    /* base color */
+    --colorBaseColorsYellow500: #eaaa08;    
+    --colorBaseColorsYellow600: #ca8204;    
+    --colorBaseColorsYellow700: #a15c07;    
+    --colorBaseColorsYellow800: #85480e;    
+    --colorBaseColorsYellow900: #713b12;    
+    --colorBaseColorsYellow1000: #421e06;    
+    --colorBaseColorsFuchsia50: #fdf4ff;    
+    --colorBaseColorsFuchsia100: #f9e8ff;    
+    --colorBaseColorsFuchsia200: #f3cfff;    
+    --colorBaseColorsFuchsia300: #eeaafd;    
+    --colorBaseColorsFuchsia400: #e477fb;    
+    /* base color */
+    --colorBaseColorsFuchsia500: #d444f1;    
+    --colorBaseColorsFuchsia600: #bb24d5;    
+    --colorBaseColorsFuchsia700: #9d1ab1;    
+    --colorBaseColorsFuchsia800: #831890;    
+    --colorBaseColorsFuchsia900: #6e1976;    
+    --colorBaseColorsFuchsia1000: #48034f;    
+    --colorBaseColorsCyan50: #ecfdff;    
+    --colorBaseColorsCyan100: #cff8fe;    
+    --colorBaseColorsCyan200: #a5f0fc;    
+    --colorBaseColorsCyan300: #67e2f9;    
+    --colorBaseColorsCyan400: #22cbee;    
+    /* base color */
+    --colorBaseColorsCyan500: #06aed4;    
+    --colorBaseColorsCyan600: #088ab2;    
+    --colorBaseColorsCyan700: #0e6f90;    
+    --colorBaseColorsCyan800: #155a75;    
+    --colorBaseColorsCyan900: #164b63;    
+    --colorBaseColorsCyan1000: #083144;    
+    --colorBaseColorsTeal50: #f0fdf9;    
+    --colorBaseColorsTeal100: #ccfbef;    
+    --colorBaseColorsTeal200: #9af5e0;    
+    --colorBaseColorsTeal300: #5fe9cd;    
+    --colorBaseColorsTeal400: #2ed3b7;    
+    /* base color */
+    --colorBaseColorsTeal500: #15b79e;    
+    --colorBaseColorsTeal600: #0e9381;    
+    --colorBaseColorsTeal700: #107568;    
+    --colorBaseColorsTeal800: #115e56;    
+    --colorBaseColorsTeal900: #134e47;    
+    --colorBaseColorsTeal1000: #042f2c;    
+    --colorBaseColorsLime50: #f3fde8;    
+    --colorBaseColorsLime100: #e3facd;    
+    --colorBaseColorsLime200: #c9f6a0;    
+    --colorBaseColorsLime300: #a7ed69;    
+    --colorBaseColorsLime400: #86e03b;    
+    /* base color */
+    --colorBaseColorsLime500: #66c61c;    
+    --colorBaseColorsLime600: #4c9e12;    
+    --colorBaseColorsLime700: #3c7813;    
+    --colorBaseColorsLime800: #325f15;    
+    --colorBaseColorsLime900: #2c5116;    
+    --colorBaseColorsLime1000: #132d06;    
+    /* default page background */
+    --colorColorBgDefault: var(--colorBaseColorsWhite1000);    
+    /* hight contrast background color */
+    --colorColorBgDefaultInverse: var(--colorBaseColorsGrey1000);    
+    --colorColorSeconderyBoldHovered: var(--colorBaseColorsGrey900);    
+    --colorColorSeconderyBoldPressed: var(--colorBaseColorsGrey1000);    
+    --colorColorBgAccentRedLightestDefault: var(--colorBaseColorsRed100);    
+    --colorColorBgAccentRedLightestHovered: var(--colorBaseColorsRed200);    
+    --colorColorBgAccentRedLightestPressed: var(--colorBaseColorsRed300);    
+    --colorColorBgBrandLightestDefault: var(--colorBaseColorsBlue100);    
+    --colorColorBgBrandLightestPressed: var(--colorBaseColorsBlue200);    
+    --colorColorBgBrandLightDefault: var(--colorBaseColorsBlue600);    
+    --colorColorBgBrandLightHovered: var(--colorBaseColorsBlue700);    
+    --colorColorBgBrandLightestHovered: var(--colorBaseColorsBlue300);    
+    --colorColorBgBrandLightPressed: var(--colorBaseColorsBlue800);    
+    --colorColorBgDangerLightDefault: var(--colorBaseColorsRed100);    
+    --colorColorBgDangerLightHovered: var(--colorBaseColorsRed200);    
+    --colorColorBgDangerBoldDefault: var(--colorBaseColorsRed500);    
+    --colorColorBgDangerBoldHovered: var(--colorBaseColorsRed600);    
+    --colorColorBgDangerLightPressed: var(--colorBaseColorsRed300);    
+    --colorColorBgDangerBoldPressed: var(--colorBaseColorsRed700);    
+    /* Use for primary text, such as body copy, sentence case headers;  Use as hover text color for $text-light */
+    --colorColorTextDefault: var(--colorBaseColorsGrey900);    
+    /* Use for links in default or hovered state. Add underline for hovered states. */
+    --colorColorLinkDefault: var(--colorColorBgBrandLightDefault);    
+    /* Use for links in a pressed state */
+    --colorColorLinkPressed: var(--colorColorBgBrandLightPressed);    
+    /* Use for links in a visited state */
+    --colorColorLinkVisited: var(--colorBaseColorsPurple800);    
+    /* Use for secondary text, such as navigation, light button links, Inputs labels color; Use as hover text color for $text-lighter */
+    --colorColorTextLight: var(--colorBaseColorsGrey800);    
+    /* Use for tertiary text, such as helper text and meta-data; Use as hover text color for $text-lightest */
+    --colorColorTextLighter: var(--colorBaseColorsGrey700);    
+    /* Use for tertiary text, such as helper text and meta-data; */
+    --colorColorTextLightest: var(--colorBaseColorsGrey600);    
+    /* Use for text on interactive and bold backgrounds. */
+    --colorColorTextInverse: var(--colorBaseColorsWhite1000);    
+    /* Use for text on interactive and bold backgrounds. */
+    --colorColorTextInverseLight: var(--colorBaseColorsWhite800);    
+    /* Use for text on interactive and bold backgrounds. */
+    --colorColorTextInverseLighter: var(--colorBaseColorsWhite600);    
+    /* Use for text on interactive and bold backgrounds. */
+    --colorColorTextInverseLightest: var(--colorBaseColorsWhite400);    
+    /* Use for text in selected or opened states. */
+    --colorColorTextSelected: var(--colorBaseColorsBlue700);    
+    /* Use for text that reinforces our brand. */
+    --colorColorTextBrand: var(--colorBaseColorsBlue600);    
+    /* Use for disabled text state. */
+    --colorColorTextDisabled: var(--colorBaseColorsBlack500);    
+    /* Use for critical text, such as fields error messaging. */
+    --colorColorTextSupportDanger: var(--colorBaseColorsRed500);    
+    /* Use for text to emphasize caution. */
+    --colorColorTextSupportWarning: var(--colorBaseColorsOrange500);    
+    /* Use for text to communicate successful results. */
+    --colorColorTextSupportSuccess: var(--colorBaseColorsGreen500);    
+    /* Use for informative text to communicate something is in progress. */
+    --colorColorTextSupportInfo: var(--colorBaseColorsLightblue500);    
+    --colorColorBorderBrand: var(--colorBaseColorsBlue600);    
+    --colorColorBorderBolder: var(--colorBaseColorsGrey600);    
+    --colorColorBorderBold: var(--colorBaseColorsGrey500);    
+    --colorColorBorderLight: var(--colorBaseColorsGrey400);    
+    --colorColorBorderLighter: var(--colorBaseColorsGrey200);    
+    --colorColorBorderLightest: var(--colorBaseColorsGrey100);    
+    --colorColorBorderSupportDanger: var(--colorBaseColorsRed500);    
+    --colorColorBorderSupportWarning: var(--colorBaseColorsOrange500);    
+    --colorColorBorderSupportSuccess: var(--colorBaseColorsGreen500);    
+    --colorColorBorderSupportInfo: var(--colorBaseColorsLightblue500);    
+    --colorColorBgWarningLightDefault: var(--colorBaseColorsOrange100);    
+    --colorColorBgWarningBoldDefault: var(--colorBaseColorsOrange500);    
+    --colorColorBgWarningLightHovered: var(--colorBaseColorsOrange200);    
+    --colorColorBgWarningBoldHovered: var(--colorBaseColorsOrange600);    
+    --colorColorBgWarningLightPressed: var(--colorBaseColorsOrange300);    
+    --colorColorBgWarningBoldPressed: var(--colorBaseColorsOrange700);    
+    --colorColorBgSuccessLightDefault: var(--colorBaseColorsGreen100);    
+    --colorColorBgSuccessBoldDefault: var(--colorBaseColorsGreen500);    
+    --colorColorBgSuccessLightHovered: var(--colorBaseColorsGreen200);    
+    --colorColorBgSuccessLightPressed: var(--colorBaseColorsGreen300);    
+    --colorColorBgSuccessBoldHovered: var(--colorBaseColorsGreen600);    
+    --colorColorBgSuccessBoldPressed: var(--colorBaseColorsGreen700);    
+    --colorColorBgInfoLightDefault: var(--colorBaseColorsLightblue100);    
+    --colorColorBgInfoLightHovered: var(--colorBaseColorsLightblue200);    
+    --colorColorBgInfoBoldDefault: var(--colorBaseColorsLightblue500);    
+    --colorColorBgInfoLightPressed: var(--colorBaseColorsLightblue300);    
+    --colorColorBgInfoBoldHovered: var(--colorBaseColorsLightblue600);    
+    --colorColorBgInfoBoldPressed: var(--colorBaseColorsLightblue700);    
+    --colorColorBgBrandBoldDefault: var(--colorBaseColorsBlue700);    
+    --colorColorBgBrandBoldHovered: var(--colorBaseColorsBlue800);    
+    --colorColorBgBrandBoldPressed: var(--colorBaseColorsBlue900);    
+    --colorColorBgAccentRedLighterDefault: var(--colorBaseColorsRed200);    
+    --colorColorBgAccentRedLighterHovered: var(--colorBaseColorsRed300);    
+    --colorColorBgAccentRedLighterPressed: var(--colorBaseColorsRed400);    
+    --colorColorBgAccentRedLightDefault: var(--colorBaseColorsRed500);    
+    --colorColorBgAccentRedLightHovered: var(--colorBaseColorsRed600);    
+    --colorColorBgAccentRedLightPressed: var(--colorBaseColorsRed700);    
+    --colorColorBgAccentRedBoldDefault: var(--colorBaseColorsRed700);    
+    --colorColorBgAccentRedBoldHovered: var(--colorBaseColorsRed800);    
+    --colorColorBgAccentRedBoldPressed: var(--colorBaseColorsRed900);    
+    /* Use for icon-only buttons, or paired with $color.text.default */
+    --colorColorIconDefault: var(--colorBaseColorsGrey900);    
+    /* Use for icons paired with $color.text.light */
+    --colorColorIconLight: var(--colorBaseColorsGrey800);    
+    /* Use for icons paired with $color.text.lighter */
+    --colorColorIconLighter: var(--colorBaseColorsGrey700);    
+    /* Use for icons paired with $color.text.lightest */
+    --colorColorIconLightest: var(--colorBaseColorsGrey600);    
+    /* Use for icons on interactive and bold backgrounds. */
+    --colorColorIconInverse: var(--colorBaseColorsWhite1000);    
+    /* Use for icons on interactive and bold backgrounds. */
+    --colorColorIconInverseLighter: var(--colorBaseColorsWhite600);    
+    /* Use for icons on interactive and bold backgrounds. */
+    --colorColorIconInverseLightest: var(--colorBaseColorsWhite400);    
+    /* Use for icons on interactive and bold backgrounds. */
+    --colorColorIconBrand: var(--colorBaseColorsBlue600);    
+    /* Use for disabled text state. */
+    --colorColorIconDisabled: var(--colorBaseColorsBlack500);    
+    /* Use for icons communication critical information. */
+    --colorColorIconSupportDanger: var(--colorBaseColorsRed500);    
+    /* Use for icons communication caution. */
+    --colorColorIconSupportWarning: var(--colorBaseColorsOrange500);    
+    /* Use for icons communication successful results */
+    --colorColorIconSupportSuccess: var(--colorBaseColorsGreen500);    
+    /* Use for icons communication information or something in-progress */
+    --colorColorIconSupportInfo: var(--colorBaseColorsLightblue500);    
+    --colorColorBgNeutralLightestDefault: var(--colorBaseColorsGrey100);    
+    --colorColorBgNeutralLightestHovered: var(--colorBaseColorsGrey200);    
+    --colorColorBgNeutralLightestPressed: var(--colorBaseColorsGrey300);    
+    --colorColorBgNeutralLighterDefault: var(--colorBaseColorsGrey200);    
+    --colorColorBgNeutralLighterHovered: var(--colorBaseColorsGrey300);    
+    --colorColorBgNeutralLighterPressed: var(--colorBaseColorsGrey400);    
+    --colorColorBgNeutralLightDefault: var(--colorBaseColorsGrey500);    
+    --colorColorBgNeutralLightHovered: var(--colorBaseColorsGrey600);    
+    --colorColorBgNeutralLightPressed: var(--colorBaseColorsGrey700);    
+    --colorColorBgNeutralBoldDefault: var(--colorBaseColorsGrey700);    
+    --colorColorBgNeutralBoldHovered: var(--colorBaseColorsGrey800);    
+    --colorColorBgNeutralBoldPressed: var(--colorBaseColorsGrey900);    
+    /* Use for critical text, such as fields error messaging. */
+    --colorColorTextDangerBold: var(--colorBaseColorsRed700);    
+    /* Use for text to emphasize caution. */
+    --colorColorTextWarningBold: var(--colorBaseColorsOrange700);    
+    /* Use for text to communicate successful results. */
+    --colorColorTextSuccessBold: var(--colorBaseColorsGreen700);    
+    /* Use for informative text to communicate something is in progress. */
+    --colorColorTextInfoBold: var(--colorBaseColorsLightblue700);    
+    --colorColorBorderSupportDangerLighter: var(--colorBaseColorsRed200);    
+    --colorColorBorderSupportWarningLighter: var(--colorBaseColorsOrange200);    
+    --colorColorBorderSupportSuccessLighter: var(--colorBaseColorsGreen200);    
+    --colorColorBorderSupportInfoLighter: var(--colorBaseColorsLightblue200);    
+    --colorColorBorderSupportInfoBold: var(--colorBaseColorsLightblue700);    
+    --colorColorBorderSupportDangerBold: var(--colorBaseColorsRed700);    
+    --colorColorBorderSupportWarningBold: var(--colorBaseColorsOrange700);    
+    --colorColorBorderSupportSuccessBold: var(--colorBaseColorsGreen700);    
+    --colorColorBgAccentGreenLightestDefault: var(--colorBaseColorsGreen100);    
+    --colorColorBgAccentGreenLightestHovered: var(--colorBaseColorsGreen200);    
+    --colorColorBgAccentGreenLightestPressed: var(--colorBaseColorsGreen300);    
+    --colorColorBgAccentGreenLighterDefault: var(--colorBaseColorsGreen200);    
+    --colorColorBgAccentGreenLighterHovered: var(--colorBaseColorsGreen300);    
+    --colorColorBgAccentGreenLighterPressed: var(--colorBaseColorsGreen400);    
+    --colorColorBgAccentGreenLightDefault: var(--colorBaseColorsGreen500);    
+    --colorColorBgAccentGreenLightHovered: var(--colorBaseColorsGreen600);    
+    --colorColorBgAccentGreenLightPressed: var(--colorBaseColorsGreen700);    
+    --colorColorBgAccentGreenBoldDefault: var(--colorBaseColorsGreen700);    
+    --colorColorBgAccentGreenBoldHovered: var(--colorBaseColorsGreen800);    
+    --colorColorBgAccentGreenBoldPressed: var(--colorBaseColorsGreen900);    
+    --colorColorBgAccentOrangeLightestDefault: var(--colorBaseColorsOrange100);    
+    --colorColorBgAccentOrangeLightestHovered: var(--colorBaseColorsOrange200);    
+    --colorColorBgAccentOrangeLightestPressed: var(--colorBaseColorsOrange300);    
+    --colorColorBgAccentOrangeLighterDefault: var(--colorBaseColorsOrange200);    
+    --colorColorBgAccentOrangeLighterHovered: var(--colorBaseColorsOrange300);    
+    --colorColorBgAccentOrangeLighterPressed: var(--colorBaseColorsOrange400);    
+    --colorColorBgAccentOrangeLightDefault: var(--colorBaseColorsOrange500);    
+    --colorColorBgAccentOrangeLightHovered: var(--colorBaseColorsOrange600);    
+    --colorColorBgAccentOrangeLightPressed: var(--colorBaseColorsOrange700);    
+    --colorColorBgAccentOrangeBoldDefault: var(--colorBaseColorsOrange700);    
+    --colorColorBgAccentOrangeBoldHovered: var(--colorBaseColorsOrange800);    
+    --colorColorBgAccentOrangeBoldPressed: var(--colorBaseColorsOrange900);    
+    --colorColorBgBrandLighterDefault: var(--colorBaseColorsBlue200);    
+    --colorColorBgBrandLighterPressed: var(--colorBaseColorsBlue300);    
+    --colorColorBgBrandLighterHovered: var(--colorBaseColorsBlue400);    
+}
