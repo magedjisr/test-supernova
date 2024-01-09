@@ -82,7 +82,7 @@
   
 }    
 
-.typographyTypographyNewEnInterfaceMediumSm 
+.typographyEnInterfaceMediumSm 
  {
   
   font-family: "Poppins";
@@ -96,7 +96,7 @@
   
 }    
 
-.typographyTypographyNewEnInterfaceMediumM 
+.typographyEnInterfaceMediumM 
  {
   
   font-family: "Poppins";
@@ -404,7 +404,7 @@
   
 }    
 
-.typographyTypographyNewEnSubheading 
+.typographyEnSubheading 
  {
   
   font-family: "Poppins";
@@ -418,7 +418,7 @@
   
 }    
 
-.typographyTypographyNewEnTitle1 
+.typographyEnTitle1 
  {
   
   font-family: "Poppins";
@@ -432,7 +432,7 @@
   
 }    
 
-.typographyTypographyNewEnSubtitle1 
+.typographyEnSubtitle1 
  {
   
   font-family: "Poppins";
@@ -446,27 +446,27 @@
   
 }    
 
-.typographyTypographyNewEnCaption 
+.typographyEnCaption 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 150%;
+  letter-spacing:  
+  0.01em;
+  text-indent: 0px;
+  
+}    
+
+.typographyEnBodyNewRegular 
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 400;
   font-size: 12px;
-  line-height: 150%;
-  letter-spacing:  
-  0em;
-  text-indent: 0px;
-  
-}    
-
-.typographyTypographyNewEnBodyNewRegular 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 400;
-  font-size: 14px;
   line-height: 140%;
   letter-spacing:  
   0em;
@@ -474,13 +474,13 @@
   
 }    
 
-.typographyTypographyNewEnBodyNewMedium 
+.typographyEnBodyNewMedium 
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 500;
-  font-size: 14px;
+  font-size: 12px;
   line-height: 140%;
   letter-spacing:  
   0em;
@@ -488,13 +488,13 @@
   
 }    
 
-.typographyTypographyNewEnBodyNewSemibold 
+.typographyEnBodyNewSemibold 
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 600;
-  font-size: 14px;
+  font-size: 12px;
   line-height: 140%;
   letter-spacing:  
   0em;
@@ -502,13 +502,13 @@
   
 }    
 
-.typographyTypographyNewEnBodyNewBold 
+.typographyEnBodyNewBold 
  {
   
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: 14px;
+  font-size: 12px;
   line-height: 140%;
   letter-spacing:  
   0em;
@@ -516,7 +516,7 @@
   
 }    
 
-.typographyTypographyNewEnInterfaceDefaultS 
+.typographyEnInterfaceDefaultS 
  {
   
   font-family: "Poppins";
@@ -530,7 +530,7 @@
   
 }    
 
-.typographyTypographyNewEnInterfaceDefaultSm 
+.typographyEnInterfaceDefaultSm 
  {
   
   font-family: "Poppins";
@@ -544,7 +544,7 @@
   
 }    
 
-.typographyTypographyNewEnInterfaceDefaultM 
+.typographyEnInterfaceDefaultM 
  {
   
   font-family: "Poppins";
@@ -558,7 +558,7 @@
   
 }    
 
-.typographyTypographyNewEnInterfaceDefaultMl 
+.typographyEnInterfaceDefaultMl 
  {
   
   font-family: "Poppins";
@@ -572,7 +572,7 @@
   
 }    
 
-.typographyTypographyNewEnInterfaceDefaultL 
+.typographyEnInterfaceDefaultL 
  {
   
   font-family: "Poppins";
@@ -586,7 +586,7 @@
   
 }    
 
-.typographyTypographyNewEnInterfaceMediumS 
+.typographyEnInterfaceMediumS 
  {
   
   font-family: "Poppins";
@@ -600,7 +600,7 @@
   
 }    
 
-.typographyTypographyNewEnInterfaceMediumMl 
+.typographyEnInterfaceMediumMl 
  {
   
   font-family: "Poppins";
@@ -614,7 +614,7 @@
   
 }    
 
-.typographyTypographyNewEnInterfaceMediumL 
+.typographyEnInterfaceMediumL 
  {
   
   font-family: "Poppins";
@@ -628,7 +628,7 @@
   
 }    
 
-.typographyTypographyNewEnInterfaceStrongXxs 
+.typographyEnInterfaceStrongXxs 
  {
   
   font-family: "Poppins";
@@ -642,7 +642,7 @@
   
 }    
 
-.typographyTypographyNewEnInterfaceStrongS 
+.typographyEnInterfaceStrongS 
  {
   
   font-family: "Poppins";
@@ -656,7 +656,7 @@
   
 }    
 
-.typographyTypographyNewEnInterfaceStrongSm 
+.typographyEnInterfaceStrongSm 
  {
   
   font-family: "Poppins";
@@ -670,7 +670,7 @@
   
 }    
 
-.typographyTypographyNewEnInterfaceStrongM 
+.typographyEnInterfaceStrongM 
  {
   
   font-family: "Poppins";
@@ -684,7 +684,7 @@
   
 }    
 
-.typographyTypographyNewEnInterfaceStrongMl 
+.typographyEnInterfaceStrongMl 
  {
   
   font-family: "Poppins";
@@ -698,7 +698,7 @@
   
 }    
 
-.typographyTypographyNewEnInterfaceStrongL 
+.typographyEnInterfaceStrongL 
  {
   
   font-family: "Poppins";
@@ -712,7 +712,7 @@
   
 }    
 
-.typographyTypographyNewArSubheading 
+.typographyArSubheading 
  {
   
   font-family: "SST Arabic";
@@ -726,7 +726,7 @@
   
 }    
 
-.typographyTypographyNewArTitle1 
+.typographyArTitle1 
  {
   
   font-family: "SST Arabic";
@@ -740,7 +740,7 @@
   
 }    
 
-.typographyTypographyNewArSubtitle1 
+.typographyArSubtitle1 
  {
   
   font-family: "SST Arabic";
@@ -754,7 +754,7 @@
   
 }    
 
-.typographyTypographyNewArCaption 
+.typographyArCaption 
  {
   
   font-family: "SST Arabic";
@@ -768,7 +768,7 @@
   
 }    
 
-.typographyTypographyNewArHeading 
+.typographyArHeading 
  {
   
   font-family: "SST Arabic";
@@ -782,7 +782,7 @@
   
 }    
 
-.typographyTypographyNewArBodyNewRegular 
+.typographyArBodyNewRegular 
  {
   
   font-family: "SST Arabic";
@@ -796,7 +796,7 @@
   
 }    
 
-.typographyTypographyNewArBodyNewMedium 
+.typographyArBodyNewMedium 
  {
   
   font-family: "SST Arabic";
@@ -810,7 +810,7 @@
   
 }    
 
-.typographyTypographyNewArBodyNewSemibold 
+.typographyArBodyNewSemibold 
  {
   
   font-family: "SST Arabic";
@@ -824,7 +824,7 @@
   
 }    
 
-.typographyTypographyNewArBodyNewBold 
+.typographyArBodyNewBold 
  {
   
   font-family: "SST Arabic";
@@ -838,7 +838,7 @@
   
 }    
 
-.typographyTypographyNewArInterfaceDefaultS 
+.typographyArInterfaceDefaultS 
  {
   
   font-family: "SST Arabic";
@@ -852,7 +852,7 @@
   
 }    
 
-.typographyTypographyNewArInterfaceDefaultSm 
+.typographyArInterfaceDefaultSm 
  {
   
   font-family: "SST Arabic";
@@ -866,7 +866,7 @@
   
 }    
 
-.typographyTypographyNewArInterfaceDefaultM 
+.typographyArInterfaceDefaultM 
  {
   
   font-family: "SST Arabic";
@@ -880,7 +880,7 @@
   
 }    
 
-.typographyTypographyNewArInterfaceDefaultMl 
+.typographyArInterfaceDefaultMl 
  {
   
   font-family: "SST Arabic";
@@ -894,7 +894,7 @@
   
 }    
 
-.typographyTypographyNewArInterfaceDefaultL 
+.typographyArInterfaceDefaultL 
  {
   
   font-family: "SST Arabic";
@@ -908,7 +908,7 @@
   
 }    
 
-.typographyTypographyNewArInterfaceMediumSm 
+.typographyArInterfaceMediumSm 
  {
   
   font-family: "SST Arabic";
@@ -922,7 +922,7 @@
   
 }    
 
-.typographyTypographyNewArInterfaceMediumM 
+.typographyArInterfaceMediumM 
  {
   
   font-family: "SST Arabic";
@@ -936,7 +936,7 @@
   
 }    
 
-.typographyTypographyNewArInterfaceMediumMl 
+.typographyArInterfaceMediumMl 
  {
   
   font-family: "SST Arabic";
@@ -950,7 +950,7 @@
   
 }    
 
-.typographyTypographyNewArInterfaceMediumL 
+.typographyArInterfaceMediumL 
  {
   
   font-family: "SST Arabic";
@@ -964,7 +964,7 @@
   
 }    
 
-.typographyTypographyNewArInterfaceStrongXxs 
+.typographyArInterfaceStrongXxs 
  {
   
   font-family: "SST Arabic";
@@ -978,7 +978,7 @@
   
 }    
 
-.typographyTypographyNewArInterfaceStrongS 
+.typographyArInterfaceStrongS 
  {
   
   font-family: "SST Arabic";
@@ -992,7 +992,7 @@
   
 }    
 
-.typographyTypographyNewArInterfaceStrongM 
+.typographyArInterfaceStrongM 
  {
   
   font-family: "SST Arabic";
@@ -1006,7 +1006,7 @@
   
 }    
 
-.typographyTypographyNewArInterfaceStrongMl 
+.typographyArInterfaceStrongMl 
  {
   
   font-family: "SST Arabic";
@@ -1020,13 +1020,41 @@
   
 }    
 
-.typographyTypographyNewArInterfaceStrongL 
+.typographyArInterfaceStrongL 
  {
   
   font-family: "SST Arabic";
   font-style: normal;
   font-weight: 700;
   font-size: 24px;
+  line-height: 100%;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyEnInterfaceMediumSUnderline 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 100%;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyEnInterfaceMediumMUnderline 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
   line-height: 100%;
   letter-spacing:  
   0em;

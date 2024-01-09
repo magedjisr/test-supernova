@@ -4,4 +4,5 @@
     --shadowBaseBoxShadowFocusBorderPrimary: 0 0 0 4px rgba(209,224,255,1);  
     --shadowBaseBoxShadowFocusBorderGray: 0 0 0 4px rgba(242,244,247,1);  
     --shadowBaseBoxShadowFocusBorderDestructive: 0 0 0 4px rgba(254,228,226,1);  
+    --shadowBaseBoxShadowContainerXs: 0 1px 2px 0 rgba(16,24,40,0.05);  
 }
