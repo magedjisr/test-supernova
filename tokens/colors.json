@@ -1524,18 +1524,6 @@
           "type": "color",
           "comment": "hight contrast background color"
         }
-      },
-      "secondery": {
-        "bold": {
-          "hovered": {
-            "value": "{color.base-colors.grey.900.value}",
-            "type": "color"
-          },
-          "pressed": {
-            "value": "{color.base-colors.grey.1000.value}",
-            "type": "color"
-          }
-        }
       }
     },
     "base-colors": {
