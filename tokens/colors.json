@@ -652,34 +652,6 @@
             }
           },
           "pink": {
-            "lightest": {
-              "default": {
-                "value": "{color.base-colors.pink.50.value}",
-                "type": "color"
-              },
-              "hovered": {
-                "value": "{color.base-colors.pink.200.value}",
-                "type": "color"
-              },
-              "pressed": {
-                "value": "{color.base-colors.pink.300.value}",
-                "type": "color"
-              }
-            },
-            "lighter": {
-              "default": {
-                "value": "{color.base-colors.pink.200.value}",
-                "type": "color"
-              },
-              "hovered": {
-                "value": "{color.base-colors.pink.300.value}",
-                "type": "color"
-              },
-              "pressed": {
-                "value": "{color.base-colors.pink.400.value}",
-                "type": "color"
-              }
-            },
             "light": {
               "default": {
                 "value": "{color.base-colors.pink.500.value}",
@@ -705,6 +677,34 @@
               },
               "pressed": {
                 "value": "{color.base-colors.pink.900.value}",
+                "type": "color"
+              }
+            },
+            "lightest": {
+              "default": {
+                "value": "{color.base-colors.pink.50.value}",
+                "type": "color"
+              },
+              "hovered": {
+                "value": "{color.base-colors.pink.200.value}",
+                "type": "color"
+              },
+              "pressed": {
+                "value": "{color.base-colors.pink.300.value}",
+                "type": "color"
+              }
+            },
+            "lighter": {
+              "default": {
+                "value": "{color.base-colors.pink.200.value}",
+                "type": "color"
+              },
+              "hovered": {
+                "value": "{color.base-colors.pink.300.value}",
+                "type": "color"
+              },
+              "pressed": {
+                "value": "{color.base-colors.pink.400.value}",
                 "type": "color"
               }
             }
@@ -884,20 +884,6 @@
             }
           },
           "teal": {
-            "bold": {
-              "default": {
-                "value": "{color.base-colors.teal.700.value}",
-                "type": "color"
-              },
-              "hovered": {
-                "value": "{color.base-colors.teal.800.value}",
-                "type": "color"
-              },
-              "pressed": {
-                "value": "{color.base-colors.teal.900.value}",
-                "type": "color"
-              }
-            },
             "lightest": {
               "default": {
                 "value": "{color.base-colors.teal.50.value}",
@@ -939,6 +925,20 @@
                 "value": "{color.base-colors.teal.700.value}",
                 "type": "color"
               }
+            },
+            "bold": {
+              "default": {
+                "value": "{color.base-colors.teal.700.value}",
+                "type": "color"
+              },
+              "hovered": {
+                "value": "{color.base-colors.teal.800.value}",
+                "type": "color"
+              },
+              "pressed": {
+                "value": "{color.base-colors.teal.900.value}",
+                "type": "color"
+              }
             }
           },
           "cyan": {
@@ -953,6 +953,20 @@
               },
               "pressed": {
                 "value": "{color.base-colors.cyan.300.value}",
+                "type": "color"
+              }
+            },
+            "bold": {
+              "default": {
+                "value": "{color.base-colors.cyan.700.value}",
+                "type": "color"
+              },
+              "hovered": {
+                "value": "{color.base-colors.cyan.800.value}",
+                "type": "color"
+              },
+              "pressed": {
+                "value": "{color.base-colors.cyan.900.value}",
                 "type": "color"
               }
             },
@@ -981,20 +995,6 @@
               },
               "pressed": {
                 "value": "{color.base-colors.cyan.700.value}",
-                "type": "color"
-              }
-            },
-            "bold": {
-              "default": {
-                "value": "{color.base-colors.cyan.700.value}",
-                "type": "color"
-              },
-              "hovered": {
-                "value": "{color.base-colors.cyan.800.value}",
-                "type": "color"
-              },
-              "pressed": {
-                "value": "{color.base-colors.cyan.900.value}",
                 "type": "color"
               }
             }
