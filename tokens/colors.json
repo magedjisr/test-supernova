@@ -1417,11 +1417,6 @@
           "type": "color",
           "comment": "hight contrast background color"
         }
-      },
-      "bold": {
-        "value": "{color.base-colors.red.700.value}",
-        "type": "color",
-        "comment": "Use for critical text, such as fields error messaging."
       }
     },
     "base-colors": {
