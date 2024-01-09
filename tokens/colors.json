@@ -1467,11 +1467,6 @@
           "type": "color",
           "comment": "hight contrast background color"
         }
-      },
-      "disabled": {
-        "value": "{color.base-colors.black.500.value}",
-        "type": "color",
-        "comment": "Use for disabled text state."
       }
     },
     "base-colors": {
