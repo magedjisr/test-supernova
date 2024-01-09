@@ -219,10 +219,6 @@
     --colorColorLinkPressed: var(--colorColorBgBrandBoldPressed);    
     /* Use for links in a visited state */
     --colorColorLinkVisited: var(--colorBaseColorsPurple800);    
-    /* Use for text that reinforces our brand. */
-    --colorColorBrand: var(--colorBaseColorsBlue600);    
-    /* Use for disabled text state. */
-    --colorColorDisabled: var(--colorBaseColorsBlack500);    
     /* Use for critical text, such as fields error messaging. */
     --colorColorSupportDanger: var(--colorBaseColorsRed500);    
     /* Use for text to emphasize caution. */
