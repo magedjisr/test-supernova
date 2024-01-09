@@ -1376,11 +1376,6 @@
         "type": "color",
         "comment": "Use for icons on interactive and bold backgrounds."
       },
-      "inverse-lightest": {
-        "value": "{color.base-colors.white.400.value}",
-        "type": "color",
-        "comment": "Use for icons on interactive and bold backgrounds."
-      },
       "brand": {
         "value": "{color.base-colors.blue.600.value}",
         "type": "color",
