@@ -1371,16 +1371,6 @@
           "comment": "hight contrast background color"
         }
       },
-      "default": {
-        "value": "{color.base-colors.grey.900.value}",
-        "type": "color",
-        "comment": "Use for icon-only buttons, or paired with $color.text.default"
-      },
-      "light": {
-        "value": "{color.base-colors.grey.800.value}",
-        "type": "color",
-        "comment": "Use for icons paired with $color.text.light"
-      },
       "lighter": {
         "value": "{color.base-colors.grey.700.value}",
         "type": "color",
