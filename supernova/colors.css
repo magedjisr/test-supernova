@@ -219,8 +219,6 @@
     --colorColorLinkPressed: var(--colorColorBgBrandBoldPressed);    
     /* Use for links in a visited state */
     --colorColorLinkVisited: var(--colorBaseColorsPurple800);    
-    /* Use for text to communicate successful results. */
-    --colorColorSuccess: var(--colorBaseColorsGreen500);    
     /* Use for informative text to communicate something is in progress. */
     --colorColorInfo: var(--colorBaseColorsLightblue500);    
     --colorColorBorderBrand: var(--colorBaseColorsBlue600);    
