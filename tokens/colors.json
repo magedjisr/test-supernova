@@ -1468,11 +1468,6 @@
           "comment": "hight contrast background color"
         }
       },
-      "light": {
-        "value": "{color.base-colors.grey.800.value}",
-        "type": "color",
-        "comment": "Use for secondary text, such as navigation, light button links, Inputs labels color; Use as hover text color for $text-lighter"
-      },
       "lighter": {
         "value": "{color.base-colors.grey.700.value}",
         "type": "color",
