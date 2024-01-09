@@ -1468,11 +1468,6 @@
           "comment": "hight contrast background color"
         }
       },
-      "brand": {
-        "value": "{color.base-colors.blue.600.value}",
-        "type": "color",
-        "comment": "Use for text that reinforces our brand."
-      },
       "disabled": {
         "value": "{color.base-colors.black.500.value}",
         "type": "color",
