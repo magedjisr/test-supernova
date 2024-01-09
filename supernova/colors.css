@@ -219,8 +219,6 @@
     --colorColorLinkPressed: var(--colorColorBgBrandBoldPressed);    
     /* Use for links in a visited state */
     --colorColorLinkVisited: var(--colorBaseColorsPurple800);    
-    /* Use for informative text to communicate something is in progress. */
-    --colorColorInfo: var(--colorBaseColorsLightblue500);    
     --colorColorBorderBrand: var(--colorBaseColorsBlue600);    
     --colorColorBorderBolder: var(--colorBaseColorsGrey700);    
     --colorColorBorderBold: var(--colorBaseColorsGrey600);    
@@ -297,8 +295,6 @@
     --colorColorBgNeutralBoldDefault: var(--colorBaseColorsGrey700);    
     --colorColorBgNeutralBoldHovered: var(--colorBaseColorsGrey800);    
     --colorColorBgNeutralBoldPressed: var(--colorBaseColorsGrey900);    
-    /* Use for critical text, such as fields error messaging. */
-    --colorColorBold: var(--colorBaseColorsRed700);    
     --colorColorBorderSupportDangerLighter: var(--colorBaseColorsRed200);    
     --colorColorBorderSupportWarningLighter: var(--colorBaseColorsOrange200);    
     --colorColorBorderSupportSuccessLighter: var(--colorBaseColorsGreen200);    
