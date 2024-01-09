@@ -1468,11 +1468,6 @@
           "comment": "hight contrast background color"
         }
       },
-      "selected": {
-        "value": "{color.base-colors.blue.700.value}",
-        "type": "color",
-        "comment": "Use for text in selected or opened states."
-      },
       "brand": {
         "value": "{color.base-colors.blue.600.value}",
         "type": "color",
