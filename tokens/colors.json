@@ -1418,11 +1418,6 @@
           "comment": "hight contrast background color"
         }
       },
-      "info": {
-        "value": "{color.base-colors.lightblue.500.value}",
-        "type": "color",
-        "comment": "Use for informative text to communicate something is in progress."
-      },
       "bold": {
         "value": "{color.base-colors.red.700.value}",
         "type": "color",
