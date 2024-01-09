@@ -211,8 +211,6 @@
     --colorColorBgDangerBoldHovered: var(--colorBaseColorsRed600);    
     --colorColorBgDangerLightPressed: var(--colorBaseColorsRed300);    
     --colorColorBgDangerBoldPressed: var(--colorBaseColorsRed700);    
-    /* Use for primary text, such as body copy, sentence case headers;  Use as hover text color for $text-light */
-    --colorColorTextDefault: var(--colorBaseColorsGrey900);    
     --colorColorBgBrandBoldDefault: var(--colorBaseColorsBlue600);    
     /* Use for links in default or hovered state. Add underline for hovered states. */
     --colorColorLinkDefault: var(--colorColorBgBrandBoldDefault);    
@@ -222,33 +220,33 @@
     /* Use for links in a visited state */
     --colorColorLinkVisited: var(--colorBaseColorsPurple800);    
     /* Use for secondary text, such as navigation, light button links, Inputs labels color; Use as hover text color for $text-lighter */
-    --colorColorTextLight: var(--colorBaseColorsGrey800);    
+    --colorColorLight: var(--colorBaseColorsGrey800);    
     /* Use for tertiary text, such as helper text and meta-data; Use as hover text color for $text-lightest */
-    --colorColorTextLighter: var(--colorBaseColorsGrey700);    
+    --colorColorLighter: var(--colorBaseColorsGrey700);    
     /* Use for tertiary text, such as helper text and meta-data; */
-    --colorColorTextLightest: var(--colorBaseColorsGrey600);    
+    --colorColorLightest: var(--colorBaseColorsGrey600);    
     /* Use for text on interactive and bold backgrounds. */
-    --colorColorTextInverse: var(--colorBaseColorsWhite1000);    
+    --colorColorInverse: var(--colorBaseColorsWhite1000);    
     /* Use for text on interactive and bold backgrounds. */
-    --colorColorTextInverseLight: var(--colorBaseColorsWhite800);    
+    --colorColorInverseLight: var(--colorBaseColorsWhite800);    
     /* Use for text on interactive and bold backgrounds. */
-    --colorColorTextInverseLighter: var(--colorBaseColorsWhite600);    
+    --colorColorInverseLighter: var(--colorBaseColorsWhite600);    
     /* Use for text on interactive and bold backgrounds. */
-    --colorColorTextInverseLightest: var(--colorBaseColorsWhite400);    
+    --colorColorInverseLightest: var(--colorBaseColorsWhite400);    
     /* Use for text in selected or opened states. */
-    --colorColorTextSelected: var(--colorBaseColorsBlue700);    
+    --colorColorSelected: var(--colorBaseColorsBlue700);    
     /* Use for text that reinforces our brand. */
-    --colorColorTextBrand: var(--colorBaseColorsBlue600);    
+    --colorColorBrand: var(--colorBaseColorsBlue600);    
     /* Use for disabled text state. */
-    --colorColorTextDisabled: var(--colorBaseColorsBlack500);    
+    --colorColorDisabled: var(--colorBaseColorsBlack500);    
     /* Use for critical text, such as fields error messaging. */
-    --colorColorTextSupportDanger: var(--colorBaseColorsRed500);    
+    --colorColorSupportDanger: var(--colorBaseColorsRed500);    
     /* Use for text to emphasize caution. */
-    --colorColorTextSupportWarning: var(--colorBaseColorsOrange500);    
+    --colorColorSupportWarning: var(--colorBaseColorsOrange500);    
     /* Use for text to communicate successful results. */
-    --colorColorTextSupportSuccess: var(--colorBaseColorsGreen500);    
+    --colorColorSupportSuccess: var(--colorBaseColorsGreen500);    
     /* Use for informative text to communicate something is in progress. */
-    --colorColorTextSupportInfo: var(--colorBaseColorsLightblue500);    
+    --colorColorSupportInfo: var(--colorBaseColorsLightblue500);    
     --colorColorBorderBrand: var(--colorBaseColorsBlue600);    
     --colorColorBorderBolder: var(--colorBaseColorsGrey700);    
     --colorColorBorderBold: var(--colorBaseColorsGrey600);    
@@ -326,13 +324,13 @@
     --colorColorBgNeutralBoldHovered: var(--colorBaseColorsGrey800);    
     --colorColorBgNeutralBoldPressed: var(--colorBaseColorsGrey900);    
     /* Use for critical text, such as fields error messaging. */
-    --colorColorTextDangerBold: var(--colorBaseColorsRed700);    
+    --colorColorDangerBold: var(--colorBaseColorsRed700);    
     /* Use for text to emphasize caution. */
-    --colorColorTextWarningBold: var(--colorBaseColorsOrange700);    
+    --colorColorWarningBold: var(--colorBaseColorsOrange700);    
     /* Use for text to communicate successful results. */
-    --colorColorTextSuccessBold: var(--colorBaseColorsGreen700);    
+    --colorColorSuccessBold: var(--colorBaseColorsGreen700);    
     /* Use for informative text to communicate something is in progress. */
-    --colorColorTextInfoBold: var(--colorBaseColorsLightblue700);    
+    --colorColorInfoBold: var(--colorBaseColorsLightblue700);    
     --colorColorBorderSupportDangerLighter: var(--colorBaseColorsRed200);    
     --colorColorBorderSupportWarningLighter: var(--colorBaseColorsOrange200);    
     --colorColorBorderSupportSuccessLighter: var(--colorBaseColorsGreen200);    
