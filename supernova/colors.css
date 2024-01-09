@@ -219,8 +219,6 @@
     --colorColorLinkPressed: var(--colorColorBgBrandBoldPressed);    
     /* Use for links in a visited state */
     --colorColorLinkVisited: var(--colorBaseColorsPurple800);    
-    /* Use for secondary text, such as navigation, light button links, Inputs labels color; Use as hover text color for $text-lighter */
-    --colorColorLight: var(--colorBaseColorsGrey800);    
     /* Use for tertiary text, such as helper text and meta-data; Use as hover text color for $text-lightest */
     --colorColorLighter: var(--colorBaseColorsGrey700);    
     /* Use for tertiary text, such as helper text and meta-data; */
