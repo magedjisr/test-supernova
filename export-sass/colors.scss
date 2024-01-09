@@ -217,14 +217,10 @@ $colorColorBgBrandBoldPressed: $colorBaseColorsBlue800;
 $colorColorLinkPressed: $colorColorBgBrandBoldPressed;    
 /* Use for links in a visited state */
 $colorColorLinkVisited: $colorBaseColorsPurple800;    
-/* Use for critical text, such as fields error messaging. */
-$colorColorSupportDanger: $colorBaseColorsRed500;    
-/* Use for text to emphasize caution. */
-$colorColorSupportWarning: $colorBaseColorsOrange500;    
 /* Use for text to communicate successful results. */
-$colorColorSupportSuccess: $colorBaseColorsGreen500;    
+$colorColorSuccess: $colorBaseColorsGreen500;    
 /* Use for informative text to communicate something is in progress. */
-$colorColorSupportInfo: $colorBaseColorsLightblue500;    
+$colorColorInfo: $colorBaseColorsLightblue500;    
 $colorColorBorderBrand: $colorBaseColorsBlue600;    
 $colorColorBorderBolder: $colorBaseColorsGrey700;    
 $colorColorBorderBold: $colorBaseColorsGrey600;    
@@ -302,9 +298,7 @@ $colorColorBgNeutralBoldDefault: $colorBaseColorsGrey700;
 $colorColorBgNeutralBoldHovered: $colorBaseColorsGrey800;    
 $colorColorBgNeutralBoldPressed: $colorBaseColorsGrey900;    
 /* Use for critical text, such as fields error messaging. */
-$colorColorDangerBold: $colorBaseColorsRed700;    
-/* Use for text to emphasize caution. */
-$colorColorBold: $colorBaseColorsOrange700;    
+$colorColorBold: $colorBaseColorsRed700;    
 $colorColorBorderSupportDangerLighter: $colorBaseColorsRed200;    
 $colorColorBorderSupportWarningLighter: $colorBaseColorsOrange200;    
 $colorColorBorderSupportSuccessLighter: $colorBaseColorsGreen200;    
