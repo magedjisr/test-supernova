@@ -257,8 +257,6 @@
     --colorColorBgAccentRedBoldDefault: var(--colorBaseColorsRed700);    
     --colorColorBgAccentRedBoldHovered: var(--colorBaseColorsRed800);    
     --colorColorBgAccentRedBoldPressed: var(--colorBaseColorsRed900);    
-    /* Use for icons paired with $color.text.lighter */
-    --colorColorLighter: var(--colorBaseColorsGrey700);    
     /* Use for icons paired with $color.text.lightest */
     --colorColorLightest: var(--colorBaseColorsGrey600);    
     /* Use for icons on interactive and bold backgrounds. */
