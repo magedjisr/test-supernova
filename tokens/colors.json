@@ -1371,11 +1371,6 @@
           "comment": "hight contrast background color"
         }
       },
-      "brand": {
-        "value": "{color.base-colors.blue.600.value}",
-        "type": "color",
-        "comment": "Use for icons on interactive and bold backgrounds."
-      },
       "disabled": {
         "value": "{color.base-colors.black.500.value}",
         "type": "color",
