@@ -257,32 +257,28 @@
     --colorColorBgAccentRedBoldDefault: var(--colorBaseColorsRed700);    
     --colorColorBgAccentRedBoldHovered: var(--colorBaseColorsRed800);    
     --colorColorBgAccentRedBoldPressed: var(--colorBaseColorsRed900);    
-    /* Use for icon-only buttons, or paired with $color.text.default */
-    --colorColorIconDefault: var(--colorBaseColorsGrey900);    
-    /* Use for icons paired with $color.text.light */
-    --colorColorIconLight: var(--colorBaseColorsGrey800);    
     /* Use for icons paired with $color.text.lighter */
-    --colorColorIconLighter: var(--colorBaseColorsGrey700);    
+    --colorColorLighter: var(--colorBaseColorsGrey700);    
     /* Use for icons paired with $color.text.lightest */
-    --colorColorIconLightest: var(--colorBaseColorsGrey600);    
+    --colorColorLightest: var(--colorBaseColorsGrey600);    
     /* Use for icons on interactive and bold backgrounds. */
-    --colorColorIconInverse: var(--colorBaseColorsWhite1000);    
+    --colorColorInverse: var(--colorBaseColorsWhite1000);    
     /* Use for icons on interactive and bold backgrounds. */
-    --colorColorIconInverseLighter: var(--colorBaseColorsWhite600);    
+    --colorColorInverseLighter: var(--colorBaseColorsWhite600);    
     /* Use for icons on interactive and bold backgrounds. */
-    --colorColorIconInverseLightest: var(--colorBaseColorsWhite400);    
+    --colorColorInverseLightest: var(--colorBaseColorsWhite400);    
     /* Use for icons on interactive and bold backgrounds. */
-    --colorColorIconBrand: var(--colorBaseColorsBlue600);    
+    --colorColorBrand: var(--colorBaseColorsBlue600);    
     /* Use for disabled text state. */
-    --colorColorIconDisabled: var(--colorBaseColorsBlack500);    
+    --colorColorDisabled: var(--colorBaseColorsBlack500);    
     /* Use for icons communication critical information. */
-    --colorColorIconSupportDanger: var(--colorBaseColorsRed500);    
+    --colorColorSupportDanger: var(--colorBaseColorsRed500);    
     /* Use for icons communication caution. */
-    --colorColorIconSupportWarning: var(--colorBaseColorsOrange500);    
+    --colorColorSupportWarning: var(--colorBaseColorsOrange500);    
     /* Use for icons communication successful results */
-    --colorColorIconSupportSuccess: var(--colorBaseColorsGreen500);    
+    --colorColorSupportSuccess: var(--colorBaseColorsGreen500);    
     /* Use for icons communication information or something in-progress */
-    --colorColorIconSupportInfo: var(--colorBaseColorsLightblue500);    
+    --colorColorSupportInfo: var(--colorBaseColorsLightblue500);    
     --colorColorBgNeutralLightestDefault: var(--colorBaseColorsGrey100);    
     --colorColorBgNeutralLightestHovered: var(--colorBaseColorsGrey200);    
     --colorColorBgNeutralLightestPressed: var(--colorBaseColorsGrey300);    
