@@ -1371,11 +1371,6 @@
           "comment": "hight contrast background color"
         }
       },
-      "inverse-lighter": {
-        "value": "{color.base-colors.white.600.value}",
-        "type": "color",
-        "comment": "Use for icons on interactive and bold backgrounds."
-      },
       "brand": {
         "value": "{color.base-colors.blue.600.value}",
         "type": "color",
