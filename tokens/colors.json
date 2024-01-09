@@ -1,35 +1,6 @@
 {
   "color": {
     "color": {
-      "support": {
-        "danger": {
-          "value": "{color.base-colors.red.500.value}",
-          "type": "color",
-          "comment": "Use for critical text, such as fields error messaging."
-        },
-        "warning": {
-          "value": "{color.base-colors.orange.500.value}",
-          "type": "color",
-          "comment": "Use for text to emphasize caution."
-        },
-        "success": {
-          "value": "{color.base-colors.green.500.value}",
-          "type": "color",
-          "comment": "Use for text to communicate successful results."
-        },
-        "info": {
-          "value": "{color.base-colors.lightblue.500.value}",
-          "type": "color",
-          "comment": "Use for informative text to communicate something is in progress."
-        }
-      },
-      "danger": {
-        "bold": {
-          "value": "{color.base-colors.red.700.value}",
-          "type": "color",
-          "comment": "Use for critical text, such as fields error messaging."
-        }
-      },
       "border": {
         "support": {
           "warning": {
@@ -1447,10 +1418,20 @@
           "comment": "hight contrast background color"
         }
       },
-      "bold": {
-        "value": "{color.base-colors.orange.700.value}",
+      "success": {
+        "value": "{color.base-colors.green.500.value}",
         "type": "color",
-        "comment": "Use for text to emphasize caution."
+        "comment": "Use for text to communicate successful results."
+      },
+      "info": {
+        "value": "{color.base-colors.lightblue.500.value}",
+        "type": "color",
+        "comment": "Use for informative text to communicate something is in progress."
+      },
+      "bold": {
+        "value": "{color.base-colors.red.700.value}",
+        "type": "color",
+        "comment": "Use for critical text, such as fields error messaging."
       }
     },
     "base-colors": {
