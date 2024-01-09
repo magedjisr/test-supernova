@@ -1,111 +1,54 @@
 {
   "color": {
     "color": {
-      "text": {
-        "support": {
-          "danger": {
-            "value": "{color.base-colors.red.500.value}",
-            "type": "color",
-            "comment": "Use for critical text, such as fields error messaging."
-          },
-          "warning": {
-            "value": "{color.base-colors.orange.500.value}",
-            "type": "color",
-            "comment": "Use for text to emphasize caution."
-          },
-          "success": {
-            "value": "{color.base-colors.green.500.value}",
-            "type": "color",
-            "comment": "Use for text to communicate successful results."
-          },
-          "info": {
-            "value": "{color.base-colors.lightblue.500.value}",
-            "type": "color",
-            "comment": "Use for informative text to communicate something is in progress."
-          }
-        },
+      "support": {
         "danger": {
-          "bold": {
-            "value": "{color.base-colors.red.700.value}",
-            "type": "color",
-            "comment": "Use for critical text, such as fields error messaging."
-          }
+          "value": "{color.base-colors.red.500.value}",
+          "type": "color",
+          "comment": "Use for critical text, such as fields error messaging."
         },
         "warning": {
-          "bold": {
-            "value": "{color.base-colors.orange.700.value}",
-            "type": "color",
-            "comment": "Use for text to emphasize caution."
-          }
+          "value": "{color.base-colors.orange.500.value}",
+          "type": "color",
+          "comment": "Use for text to emphasize caution."
         },
         "success": {
-          "bold": {
-            "value": "{color.base-colors.green.700.value}",
-            "type": "color",
-            "comment": "Use for text to communicate successful results."
-          }
+          "value": "{color.base-colors.green.500.value}",
+          "type": "color",
+          "comment": "Use for text to communicate successful results."
         },
         "info": {
-          "bold": {
-            "value": "{color.base-colors.lightblue.700.value}",
-            "type": "color",
-            "comment": "Use for informative text to communicate something is in progress."
-          }
-        },
-        "default": {
-          "value": "{color.base-colors.grey.900.value}",
+          "value": "{color.base-colors.lightblue.500.value}",
           "type": "color",
-          "comment": "Use for primary text, such as body copy, sentence case headers;  Use as hover text color for $text-light"
-        },
-        "light": {
-          "value": "{color.base-colors.grey.800.value}",
+          "comment": "Use for informative text to communicate something is in progress."
+        }
+      },
+      "danger": {
+        "bold": {
+          "value": "{color.base-colors.red.700.value}",
           "type": "color",
-          "comment": "Use for secondary text, such as navigation, light button links, Inputs labels color; Use as hover text color for $text-lighter"
-        },
-        "lighter": {
-          "value": "{color.base-colors.grey.700.value}",
+          "comment": "Use for critical text, such as fields error messaging."
+        }
+      },
+      "warning": {
+        "bold": {
+          "value": "{color.base-colors.orange.700.value}",
           "type": "color",
-          "comment": "Use for tertiary text, such as helper text and meta-data; Use as hover text color for $text-lightest"
-        },
-        "lightest": {
-          "value": "{color.base-colors.grey.600.value}",
+          "comment": "Use for text to emphasize caution."
+        }
+      },
+      "success": {
+        "bold": {
+          "value": "{color.base-colors.green.700.value}",
           "type": "color",
-          "comment": "Use for tertiary text, such as helper text and meta-data;"
-        },
-        "inverse": {
-          "value": "{color.base-colors.white.1000.value}",
+          "comment": "Use for text to communicate successful results."
+        }
+      },
+      "info": {
+        "bold": {
+          "value": "{color.base-colors.lightblue.700.value}",
           "type": "color",
-          "comment": "Use for text on interactive and bold backgrounds."
-        },
-        "inverse-light": {
-          "value": "{color.base-colors.white.800.value}",
-          "type": "color",
-          "comment": "Use for text on interactive and bold backgrounds."
-        },
-        "inverse-lighter": {
-          "value": "{color.base-colors.white.600.value}",
-          "type": "color",
-          "comment": "Use for text on interactive and bold backgrounds."
-        },
-        "inverse-lightest": {
-          "value": "{color.base-colors.white.400.value}",
-          "type": "color",
-          "comment": "Use for text on interactive and bold backgrounds."
-        },
-        "selected": {
-          "value": "{color.base-colors.blue.700.value}",
-          "type": "color",
-          "comment": "Use for text in selected or opened states."
-        },
-        "brand": {
-          "value": "{color.base-colors.blue.600.value}",
-          "type": "color",
-          "comment": "Use for text that reinforces our brand."
-        },
-        "disabled": {
-          "value": "{color.base-colors.black.500.value}",
-          "type": "color",
-          "comment": "Use for disabled text state."
+          "comment": "Use for informative text to communicate something is in progress."
         }
       },
       "border": {
@@ -1524,6 +1467,56 @@
           "type": "color",
           "comment": "hight contrast background color"
         }
+      },
+      "light": {
+        "value": "{color.base-colors.grey.800.value}",
+        "type": "color",
+        "comment": "Use for secondary text, such as navigation, light button links, Inputs labels color; Use as hover text color for $text-lighter"
+      },
+      "lighter": {
+        "value": "{color.base-colors.grey.700.value}",
+        "type": "color",
+        "comment": "Use for tertiary text, such as helper text and meta-data; Use as hover text color for $text-lightest"
+      },
+      "lightest": {
+        "value": "{color.base-colors.grey.600.value}",
+        "type": "color",
+        "comment": "Use for tertiary text, such as helper text and meta-data;"
+      },
+      "inverse": {
+        "value": "{color.base-colors.white.1000.value}",
+        "type": "color",
+        "comment": "Use for text on interactive and bold backgrounds."
+      },
+      "inverse-light": {
+        "value": "{color.base-colors.white.800.value}",
+        "type": "color",
+        "comment": "Use for text on interactive and bold backgrounds."
+      },
+      "inverse-lighter": {
+        "value": "{color.base-colors.white.600.value}",
+        "type": "color",
+        "comment": "Use for text on interactive and bold backgrounds."
+      },
+      "inverse-lightest": {
+        "value": "{color.base-colors.white.400.value}",
+        "type": "color",
+        "comment": "Use for text on interactive and bold backgrounds."
+      },
+      "selected": {
+        "value": "{color.base-colors.blue.700.value}",
+        "type": "color",
+        "comment": "Use for text in selected or opened states."
+      },
+      "brand": {
+        "value": "{color.base-colors.blue.600.value}",
+        "type": "color",
+        "comment": "Use for text that reinforces our brand."
+      },
+      "disabled": {
+        "value": "{color.base-colors.black.500.value}",
+        "type": "color",
+        "comment": "Use for disabled text state."
       }
     },
     "base-colors": {
