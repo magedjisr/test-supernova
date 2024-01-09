@@ -219,10 +219,6 @@
     --colorColorLinkPressed: var(--colorColorBgBrandBoldPressed);    
     /* Use for links in a visited state */
     --colorColorLinkVisited: var(--colorBaseColorsPurple800);    
-    /* Use for tertiary text, such as helper text and meta-data; */
-    --colorColorLightest: var(--colorBaseColorsGrey600);    
-    /* Use for text on interactive and bold backgrounds. */
-    --colorColorInverse: var(--colorBaseColorsWhite1000);    
     /* Use for text on interactive and bold backgrounds. */
     --colorColorInverseLight: var(--colorBaseColorsWhite800);    
     /* Use for text on interactive and bold backgrounds. */
