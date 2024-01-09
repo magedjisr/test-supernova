@@ -1468,11 +1468,6 @@
           "comment": "hight contrast background color"
         }
       },
-      "inverse": {
-        "value": "{color.base-colors.white.1000.value}",
-        "type": "color",
-        "comment": "Use for text on interactive and bold backgrounds."
-      },
       "inverse-light": {
         "value": "{color.base-colors.white.800.value}",
         "type": "color",
