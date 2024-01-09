@@ -1418,11 +1418,6 @@
           "comment": "hight contrast background color"
         }
       },
-      "success": {
-        "value": "{color.base-colors.green.500.value}",
-        "type": "color",
-        "comment": "Use for text to communicate successful results."
-      },
       "info": {
         "value": "{color.base-colors.lightblue.500.value}",
         "type": "color",
