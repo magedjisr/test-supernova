@@ -257,14 +257,10 @@
     --colorColorBgAccentRedBoldDefault: var(--colorBaseColorsRed700);    
     --colorColorBgAccentRedBoldHovered: var(--colorBaseColorsRed800);    
     --colorColorBgAccentRedBoldPressed: var(--colorBaseColorsRed900);    
-    /* Use for icons communication critical information. */
-    --colorColorSupportDanger: var(--colorBaseColorsRed500);    
-    /* Use for icons communication caution. */
-    --colorColorSupportWarning: var(--colorBaseColorsOrange500);    
     /* Use for icons communication successful results */
-    --colorColorSupportSuccess: var(--colorBaseColorsGreen500);    
+    --colorColorSuccess: var(--colorBaseColorsGreen500);    
     /* Use for icons communication information or something in-progress */
-    --colorColorSupportInfo: var(--colorBaseColorsLightblue500);    
+    --colorColorInfo: var(--colorBaseColorsLightblue500);    
     --colorColorBgNeutralLightestDefault: var(--colorBaseColorsGrey100);    
     --colorColorBgNeutralLightestHovered: var(--colorBaseColorsGrey200);    
     --colorColorBgNeutralLightestPressed: var(--colorBaseColorsGrey300);    
