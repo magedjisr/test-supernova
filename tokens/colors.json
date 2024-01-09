@@ -44,13 +44,6 @@
           "comment": "Use for text to communicate successful results."
         }
       },
-      "info": {
-        "bold": {
-          "value": "{color.base-colors.lightblue.700.value}",
-          "type": "color",
-          "comment": "Use for informative text to communicate something is in progress."
-        }
-      },
       "border": {
         "support": {
           "warning": {
