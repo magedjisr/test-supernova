@@ -307,8 +307,6 @@
     --colorColorDangerBold: var(--colorBaseColorsRed700);    
     /* Use for text to emphasize caution. */
     --colorColorWarningBold: var(--colorBaseColorsOrange700);    
-    /* Use for text to communicate successful results. */
-    --colorColorSuccessBold: var(--colorBaseColorsGreen700);    
     --colorColorBorderSupportDangerLighter: var(--colorBaseColorsRed200);    
     --colorColorBorderSupportWarningLighter: var(--colorBaseColorsOrange200);    
     --colorColorBorderSupportSuccessLighter: var(--colorBaseColorsGreen200);    
