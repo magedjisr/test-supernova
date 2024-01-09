@@ -196,8 +196,6 @@
     --colorColorBgDefault: var(--colorBaseColorsWhite1000);    
     /* hight contrast background color */
     --colorColorBgDefaultInverse: var(--colorBaseColorsGrey1000);    
-    --colorColorSeconderyBoldHovered: var(--colorBaseColorsGrey900);    
-    --colorColorSeconderyBoldPressed: var(--colorBaseColorsGrey1000);    
     --colorColorBgAccentRedLightestDefault: var(--colorBaseColorsRed50);    
     --colorColorBgAccentRedLightestHovered: var(--colorBaseColorsRed200);    
     --colorColorBgAccentRedLightestPressed: var(--colorBaseColorsRed300);    
