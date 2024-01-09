@@ -1,11 +1,5 @@
 {
   "typography": {
-    "body-new": {},
-    "interface": {
-      "medium": {},
-      "default": {},
-      "strong": {}
-    },
     "en": {
       "body-new": {
         "regular": {
@@ -5304,14 +5298,6 @@
             }
           }
         }
-      }
-    },
-    "typography-new-ar": {
-      "body-new": {},
-      "interface": {
-        "default": {},
-        "strong": {},
-        "medium": {}
       }
     }
   }
