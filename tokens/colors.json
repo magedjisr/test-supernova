@@ -195,73 +195,26 @@
           "type": "color"
         }
       },
-      "icon": {
-        "support": {
-          "danger": {
-            "value": "{color.base-colors.red.500.value}",
-            "type": "color",
-            "comment": "Use for icons communication critical information."
-          },
-          "warning": {
-            "value": "{color.base-colors.orange.500.value}",
-            "type": "color",
-            "comment": "Use for icons communication caution."
-          },
-          "success": {
-            "value": "{color.base-colors.green.500.value}",
-            "type": "color",
-            "comment": "Use for icons communication successful results"
-          },
-          "info": {
-            "value": "{color.base-colors.lightblue.500.value}",
-            "type": "color",
-            "comment": "Use for icons communication information or something in-progress"
-          }
-        },
-        "default": {
-          "value": "{color.base-colors.grey.900.value}",
+      "support": {
+        "danger": {
+          "value": "{color.base-colors.red.500.value}",
           "type": "color",
-          "comment": "Use for icon-only buttons, or paired with $color.text.default"
+          "comment": "Use for icons communication critical information."
         },
-        "light": {
-          "value": "{color.base-colors.grey.800.value}",
+        "warning": {
+          "value": "{color.base-colors.orange.500.value}",
           "type": "color",
-          "comment": "Use for icons paired with $color.text.light"
+          "comment": "Use for icons communication caution."
         },
-        "lighter": {
-          "value": "{color.base-colors.grey.700.value}",
+        "success": {
+          "value": "{color.base-colors.green.500.value}",
           "type": "color",
-          "comment": "Use for icons paired with $color.text.lighter"
+          "comment": "Use for icons communication successful results"
         },
-        "lightest": {
-          "value": "{color.base-colors.grey.600.value}",
+        "info": {
+          "value": "{color.base-colors.lightblue.500.value}",
           "type": "color",
-          "comment": "Use for icons paired with $color.text.lightest"
-        },
-        "inverse": {
-          "value": "{color.base-colors.white.1000.value}",
-          "type": "color",
-          "comment": "Use for icons on interactive and bold backgrounds."
-        },
-        "inverse-lighter": {
-          "value": "{color.base-colors.white.600.value}",
-          "type": "color",
-          "comment": "Use for icons on interactive and bold backgrounds."
-        },
-        "inverse-lightest": {
-          "value": "{color.base-colors.white.400.value}",
-          "type": "color",
-          "comment": "Use for icons on interactive and bold backgrounds."
-        },
-        "brand": {
-          "value": "{color.base-colors.blue.600.value}",
-          "type": "color",
-          "comment": "Use for icons on interactive and bold backgrounds."
-        },
-        "disabled": {
-          "value": "{color.base-colors.black.500.value}",
-          "type": "color",
-          "comment": "Use for disabled text state."
+          "comment": "Use for icons communication information or something in-progress"
         }
       },
       "fg": {
@@ -1417,6 +1370,51 @@
           "type": "color",
           "comment": "hight contrast background color"
         }
+      },
+      "default": {
+        "value": "{color.base-colors.grey.900.value}",
+        "type": "color",
+        "comment": "Use for icon-only buttons, or paired with $color.text.default"
+      },
+      "light": {
+        "value": "{color.base-colors.grey.800.value}",
+        "type": "color",
+        "comment": "Use for icons paired with $color.text.light"
+      },
+      "lighter": {
+        "value": "{color.base-colors.grey.700.value}",
+        "type": "color",
+        "comment": "Use for icons paired with $color.text.lighter"
+      },
+      "lightest": {
+        "value": "{color.base-colors.grey.600.value}",
+        "type": "color",
+        "comment": "Use for icons paired with $color.text.lightest"
+      },
+      "inverse": {
+        "value": "{color.base-colors.white.1000.value}",
+        "type": "color",
+        "comment": "Use for icons on interactive and bold backgrounds."
+      },
+      "inverse-lighter": {
+        "value": "{color.base-colors.white.600.value}",
+        "type": "color",
+        "comment": "Use for icons on interactive and bold backgrounds."
+      },
+      "inverse-lightest": {
+        "value": "{color.base-colors.white.400.value}",
+        "type": "color",
+        "comment": "Use for icons on interactive and bold backgrounds."
+      },
+      "brand": {
+        "value": "{color.base-colors.blue.600.value}",
+        "type": "color",
+        "comment": "Use for icons on interactive and bold backgrounds."
+      },
+      "disabled": {
+        "value": "{color.base-colors.black.500.value}",
+        "type": "color",
+        "comment": "Use for disabled text state."
       }
     },
     "base-colors": {
