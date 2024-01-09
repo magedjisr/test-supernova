@@ -1371,11 +1371,6 @@
           "comment": "hight contrast background color"
         }
       },
-      "lighter": {
-        "value": "{color.base-colors.grey.700.value}",
-        "type": "color",
-        "comment": "Use for icons paired with $color.text.lighter"
-      },
       "lightest": {
         "value": "{color.base-colors.grey.600.value}",
         "type": "color",
