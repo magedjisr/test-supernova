@@ -1371,16 +1371,6 @@
           "comment": "hight contrast background color"
         }
       },
-      "lightest": {
-        "value": "{color.base-colors.grey.600.value}",
-        "type": "color",
-        "comment": "Use for icons paired with $color.text.lightest"
-      },
-      "inverse": {
-        "value": "{color.base-colors.white.1000.value}",
-        "type": "color",
-        "comment": "Use for icons on interactive and bold backgrounds."
-      },
       "inverse-lighter": {
         "value": "{color.base-colors.white.600.value}",
         "type": "color",
