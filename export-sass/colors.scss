@@ -209,8 +209,6 @@ $colorColorBgDangerBoldDefault: $colorBaseColorsRed500;
 $colorColorBgDangerBoldHovered: $colorBaseColorsRed600;    
 $colorColorBgDangerLightPressed: $colorBaseColorsRed300;    
 $colorColorBgDangerBoldPressed: $colorBaseColorsRed700;    
-/* Use for primary text, such as body copy, sentence case headers;  Use as hover text color for $text-light */
-$colorColorTextDefault: $colorBaseColorsGrey900;    
 $colorColorBgBrandBoldDefault: $colorBaseColorsBlue600;    
 /* Use for links in default or hovered state. Add underline for hovered states. */
 $colorColorLinkDefault: $colorColorBgBrandBoldDefault;    
@@ -219,34 +217,32 @@ $colorColorBgBrandBoldPressed: $colorBaseColorsBlue800;
 $colorColorLinkPressed: $colorColorBgBrandBoldPressed;    
 /* Use for links in a visited state */
 $colorColorLinkVisited: $colorBaseColorsPurple800;    
-/* Use for secondary text, such as navigation, light button links, Inputs labels color; Use as hover text color for $text-lighter */
-$colorColorTextLight: $colorBaseColorsGrey800;    
 /* Use for tertiary text, such as helper text and meta-data; Use as hover text color for $text-lightest */
-$colorColorTextLighter: $colorBaseColorsGrey700;    
+$colorColorLighter: $colorBaseColorsGrey700;    
 /* Use for tertiary text, such as helper text and meta-data; */
-$colorColorTextLightest: $colorBaseColorsGrey600;    
+$colorColorLightest: $colorBaseColorsGrey600;    
 /* Use for text on interactive and bold backgrounds. */
-$colorColorTextInverse: $colorBaseColorsWhite1000;    
+$colorColorInverse: $colorBaseColorsWhite1000;    
 /* Use for text on interactive and bold backgrounds. */
-$colorColorTextInverseLight: $colorBaseColorsWhite800;    
+$colorColorInverseLight: $colorBaseColorsWhite800;    
 /* Use for text on interactive and bold backgrounds. */
-$colorColorTextInverseLighter: $colorBaseColorsWhite600;    
+$colorColorInverseLighter: $colorBaseColorsWhite600;    
 /* Use for text on interactive and bold backgrounds. */
-$colorColorTextInverseLightest: $colorBaseColorsWhite400;    
+$colorColorInverseLightest: $colorBaseColorsWhite400;    
 /* Use for text in selected or opened states. */
-$colorColorTextSelected: $colorBaseColorsBlue700;    
+$colorColorSelected: $colorBaseColorsBlue700;    
 /* Use for text that reinforces our brand. */
-$colorColorTextBrand: $colorBaseColorsBlue600;    
+$colorColorBrand: $colorBaseColorsBlue600;    
 /* Use for disabled text state. */
-$colorColorTextDisabled: $colorBaseColorsBlack500;    
+$colorColorDisabled: $colorBaseColorsBlack500;    
 /* Use for critical text, such as fields error messaging. */
-$colorColorTextSupportDanger: $colorBaseColorsRed500;    
+$colorColorSupportDanger: $colorBaseColorsRed500;    
 /* Use for text to emphasize caution. */
-$colorColorTextSupportWarning: $colorBaseColorsOrange500;    
+$colorColorSupportWarning: $colorBaseColorsOrange500;    
 /* Use for text to communicate successful results. */
-$colorColorTextSupportSuccess: $colorBaseColorsGreen500;    
+$colorColorSupportSuccess: $colorBaseColorsGreen500;    
 /* Use for informative text to communicate something is in progress. */
-$colorColorTextSupportInfo: $colorBaseColorsLightblue500;    
+$colorColorSupportInfo: $colorBaseColorsLightblue500;    
 $colorColorBorderBrand: $colorBaseColorsBlue600;    
 $colorColorBorderBolder: $colorBaseColorsGrey700;    
 $colorColorBorderBold: $colorBaseColorsGrey600;    
@@ -324,13 +320,13 @@ $colorColorBgNeutralBoldDefault: $colorBaseColorsGrey700;
 $colorColorBgNeutralBoldHovered: $colorBaseColorsGrey800;    
 $colorColorBgNeutralBoldPressed: $colorBaseColorsGrey900;    
 /* Use for critical text, such as fields error messaging. */
-$colorColorTextDangerBold: $colorBaseColorsRed700;    
+$colorColorDangerBold: $colorBaseColorsRed700;    
 /* Use for text to emphasize caution. */
-$colorColorTextWarningBold: $colorBaseColorsOrange700;    
+$colorColorWarningBold: $colorBaseColorsOrange700;    
 /* Use for text to communicate successful results. */
-$colorColorTextSuccessBold: $colorBaseColorsGreen700;    
+$colorColorSuccessBold: $colorBaseColorsGreen700;    
 /* Use for informative text to communicate something is in progress. */
-$colorColorTextInfoBold: $colorBaseColorsLightblue700;    
+$colorColorInfoBold: $colorBaseColorsLightblue700;    
 $colorColorBorderSupportDangerLighter: $colorBaseColorsRed200;    
 $colorColorBorderSupportWarningLighter: $colorBaseColorsOrange200;    
 $colorColorBorderSupportSuccessLighter: $colorBaseColorsGreen200;    
