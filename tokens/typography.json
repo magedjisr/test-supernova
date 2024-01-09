@@ -1,84 +1,10 @@
 {
   "typography": {
-    "typography-new-en": {
-      "body-new": {},
-      "interface": {
-        "medium": {},
-        "default": {},
-        "strong": {}
-      },
-      "heading": {
-        "value": {
-          "font": {
-            "type": "font",
-            "value": {
-              "family": {
-                "type": "string",
-                "value": "Poppins"
-              },
-              "subfamily": {
-                "type": "string",
-                "value": "600"
-              }
-            }
-          },
-          "fontSize": {
-            "type": "measure",
-            "value": {
-              "measure": {
-                "type": "size",
-                "value": 24
-              },
-              "unit": {
-                "type": "string",
-                "value": "pixels"
-              }
-            }
-          },
-          "textDecoration": "None",
-          "textCase": "Original",
-          "letterSpacing": {
-            "type": "measure",
-            "value": {
-              "measure": {
-                "type": "size",
-                "value": 0
-              },
-              "unit": {
-                "type": "string",
-                "value": "percent"
-              }
-            }
-          },
-          "paragraphIndent": {
-            "type": "measure",
-            "value": {
-              "measure": {
-                "type": "size",
-                "value": 0
-              },
-              "unit": {
-                "type": "string",
-                "value": "pixels"
-              }
-            }
-          },
-          "lineHeight": {
-            "type": "measure",
-            "value": {
-              "measure": {
-                "type": "size",
-                "value": 130
-              },
-              "unit": {
-                "type": "string",
-                "value": "percent"
-              }
-            }
-          }
-        },
-        "type": "typography"
-      }
+    "body-new": {},
+    "interface": {
+      "medium": {},
+      "default": {},
+      "strong": {}
     },
     "en": {
       "body-new": {
