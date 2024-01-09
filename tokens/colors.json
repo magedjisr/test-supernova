@@ -195,28 +195,6 @@
           "type": "color"
         }
       },
-      "support": {
-        "danger": {
-          "value": "{color.base-colors.red.500.value}",
-          "type": "color",
-          "comment": "Use for icons communication critical information."
-        },
-        "warning": {
-          "value": "{color.base-colors.orange.500.value}",
-          "type": "color",
-          "comment": "Use for icons communication caution."
-        },
-        "success": {
-          "value": "{color.base-colors.green.500.value}",
-          "type": "color",
-          "comment": "Use for icons communication successful results"
-        },
-        "info": {
-          "value": "{color.base-colors.lightblue.500.value}",
-          "type": "color",
-          "comment": "Use for icons communication information or something in-progress"
-        }
-      },
       "fg": {
         "danger": {
           "default": {
@@ -1370,6 +1348,11 @@
           "type": "color",
           "comment": "hight contrast background color"
         }
+      },
+      "info": {
+        "value": "{color.base-colors.lightblue.500.value}",
+        "type": "color",
+        "comment": "Use for icons communication information or something in-progress"
       }
     },
     "base-colors": {
