@@ -1468,16 +1468,6 @@
           "comment": "hight contrast background color"
         }
       },
-      "lighter": {
-        "value": "{color.base-colors.grey.700.value}",
-        "type": "color",
-        "comment": "Use for tertiary text, such as helper text and meta-data; Use as hover text color for $text-lightest"
-      },
-      "lightest": {
-        "value": "{color.base-colors.grey.600.value}",
-        "type": "color",
-        "comment": "Use for tertiary text, such as helper text and meta-data;"
-      },
       "inverse": {
         "value": "{color.base-colors.white.1000.value}",
         "type": "color",
