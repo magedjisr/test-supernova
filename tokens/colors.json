@@ -30,20 +30,6 @@
           "comment": "Use for critical text, such as fields error messaging."
         }
       },
-      "warning": {
-        "bold": {
-          "value": "{color.base-colors.orange.700.value}",
-          "type": "color",
-          "comment": "Use for text to emphasize caution."
-        }
-      },
-      "success": {
-        "bold": {
-          "value": "{color.base-colors.green.700.value}",
-          "type": "color",
-          "comment": "Use for text to communicate successful results."
-        }
-      },
       "border": {
         "support": {
           "warning": {
@@ -1460,6 +1446,11 @@
           "type": "color",
           "comment": "hight contrast background color"
         }
+      },
+      "bold": {
+        "value": "{color.base-colors.orange.700.value}",
+        "type": "color",
+        "comment": "Use for text to emphasize caution."
       }
     },
     "base-colors": {
