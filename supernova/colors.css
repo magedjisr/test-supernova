@@ -260,8 +260,6 @@
     /* Use for icons paired with $color.text.lightest */
     --colorColorLightest: var(--colorBaseColorsGrey600);    
     /* Use for icons on interactive and bold backgrounds. */
-    --colorColorInverse: var(--colorBaseColorsWhite1000);    
-    /* Use for icons on interactive and bold backgrounds. */
     --colorColorInverseLighter: var(--colorBaseColorsWhite600);    
     /* Use for icons on interactive and bold backgrounds. */
     --colorColorInverseLightest: var(--colorBaseColorsWhite400);    
