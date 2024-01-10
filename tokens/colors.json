@@ -2,11 +2,11 @@
   "color": {
     "color": {
       "border": {
+        "brand": {
+          "value": "{color.base-colors.blue.600.value}",
+          "type": "color"
+        },
         "support": {
-          "warning": {
-            "value": "{color.base-colors.orange.500.value}",
-            "type": "color"
-          },
           "success": {
             "value": "{color.base-colors.green.500.value}",
             "type": "color"
@@ -18,11 +18,11 @@
           "danger": {
             "value": "{color.base-colors.red.500.value}",
             "type": "color"
+          },
+          "warning": {
+            "value": "{color.base-colors.orange.500.value}",
+            "type": "color"
           }
-        },
-        "brand": {
-          "value": "{color.base-colors.blue.600.value}",
-          "type": "color"
         },
         "accent": {
           "red": {
@@ -477,20 +477,6 @@
           }
         },
         "neutral": {
-          "bolder": {
-            "default": {
-              "value": "{color.base-colors.grey.800.value}",
-              "type": "color"
-            },
-            "hovered": {
-              "value": "{color.base-colors.grey.900.value}",
-              "type": "color"
-            },
-            "pressed": {
-              "value": "{color.base-colors.grey.1000.value}",
-              "type": "color"
-            }
-          },
           "lightest": {
             "default": {
               "value": "{color.base-colors.grey.100.value}",
@@ -544,6 +530,20 @@
             },
             "pressed": {
               "value": "{color.base-colors.grey.900.value}",
+              "type": "color"
+            }
+          },
+          "bolder": {
+            "default": {
+              "value": "{color.base-colors.grey.800.value}",
+              "type": "color"
+            },
+            "hovered": {
+              "value": "{color.base-colors.grey.900.value}",
+              "type": "color"
+            },
+            "pressed": {
+              "value": "{color.base-colors.grey.1000.value}",
               "type": "color"
             }
           }
@@ -826,6 +826,20 @@
             }
           },
           "fuchsia": {
+            "light": {
+              "default": {
+                "value": "{color.base-colors.fuchsia.500.value}",
+                "type": "color"
+              },
+              "hovered": {
+                "value": "{color.base-colors.fuchsia.600.value}",
+                "type": "color"
+              },
+              "pressed": {
+                "value": "{color.base-colors.fuchsia.700.value}",
+                "type": "color"
+              }
+            },
             "lightest": {
               "default": {
                 "value": "{color.base-colors.fuchsia.50.value}",
@@ -851,20 +865,6 @@
               },
               "pressed": {
                 "value": "{color.base-colors.fuchsia.400.value}",
-                "type": "color"
-              }
-            },
-            "light": {
-              "default": {
-                "value": "{color.base-colors.fuchsia.500.value}",
-                "type": "color"
-              },
-              "hovered": {
-                "value": "{color.base-colors.fuchsia.600.value}",
-                "type": "color"
-              },
-              "pressed": {
-                "value": "{color.base-colors.fuchsia.700.value}",
                 "type": "color"
               }
             },
