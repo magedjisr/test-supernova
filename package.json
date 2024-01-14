@@ -1,0 +1,8 @@
+{
+  "name": "test-supernova",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com-jisr:magedjisr/test-supernova.git",
+  "author": "magedjisr <maged@jisr.net>",
+  "license": "MIT"
+}
