@@ -193,6 +193,7 @@
     --colorBaseColorsLime1000: #132d06;    
     --colorColorBgBlanket: #000a1eb2;    
     --colorColorBorderBrandDefaultmaken: #4f038c;    
+    --colorBaseColorContainersWhiteSkeletonBone: #f2f4f7;    
     /* default page background */
     --colorColorBgDefault: var(--colorBaseColorsWhite1000);    
     /* hight contrast background color */
