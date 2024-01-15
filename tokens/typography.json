@@ -1,6 +1,6 @@
 {
   "typography": {
-    "typography-new-en": {
+    "en": {
       "body-new": {
         "regular": {
           "value": {
@@ -166,7 +166,7 @@
               "value": {
                 "measure": {
                   "type": "size",
-                  "value": 14
+                  "value": 12
                 },
                 "unit": {
                   "type": "string",
@@ -238,7 +238,7 @@
               "value": {
                 "measure": {
                   "type": "size",
-                  "value": 14
+                  "value": 12
                 },
                 "unit": {
                   "type": "string",
@@ -292,730 +292,6 @@
         }
       },
       "interface": {
-        "medium": {
-          "sm": {
-            "value": {
-              "font": {
-                "type": "font",
-                "value": {
-                  "family": {
-                    "type": "string",
-                    "value": "Poppins"
-                  },
-                  "subfamily": {
-                    "type": "string",
-                    "value": "500"
-                  }
-                }
-              },
-              "fontSize": {
-                "type": "measure",
-                "value": {
-                  "measure": {
-                    "type": "size",
-                    "value": 14
-                  },
-                  "unit": {
-                    "type": "string",
-                    "value": "pixels"
-                  }
-                }
-              },
-              "textDecoration": "None",
-              "textCase": "Original",
-              "letterSpacing": {
-                "type": "measure",
-                "value": {
-                  "measure": {
-                    "type": "size",
-                    "value": 0
-                  },
-                  "unit": {
-                    "type": "string",
-                    "value": "percent"
-                  }
-                }
-              },
-              "paragraphIndent": {
-                "type": "measure",
-                "value": {
-                  "measure": {
-                    "type": "size",
-                    "value": 0
-                  },
-                  "unit": {
-                    "type": "string",
-                    "value": "pixels"
-                  }
-                }
-              },
-              "lineHeight": {
-                "type": "measure",
-                "value": {
-                  "measure": {
-                    "type": "size",
-                    "value": 100
-                  },
-                  "unit": {
-                    "type": "string",
-                    "value": "percent"
-                  }
-                }
-              }
-            },
-            "type": "typography"
-          },
-          "m": {
-            "value": {
-              "font": {
-                "type": "font",
-                "value": {
-                  "family": {
-                    "type": "string",
-                    "value": "Poppins"
-                  },
-                  "subfamily": {
-                    "type": "string",
-                    "value": "500"
-                  }
-                }
-              },
-              "fontSize": {
-                "type": "measure",
-                "value": {
-                  "measure": {
-                    "type": "size",
-                    "value": 16
-                  },
-                  "unit": {
-                    "type": "string",
-                    "value": "pixels"
-                  }
-                }
-              },
-              "textDecoration": "None",
-              "textCase": "Original",
-              "letterSpacing": {
-                "type": "measure",
-                "value": {
-                  "measure": {
-                    "type": "size",
-                    "value": 0
-                  },
-                  "unit": {
-                    "type": "string",
-                    "value": "percent"
-                  }
-                }
-              },
-              "paragraphIndent": {
-                "type": "measure",
-                "value": {
-                  "measure": {
-                    "type": "size",
-                    "value": 0
-                  },
-                  "unit": {
-                    "type": "string",
-                    "value": "pixels"
-                  }
-                }
-              },
-              "lineHeight": {
-                "type": "measure",
-                "value": {
-                  "measure": {
-                    "type": "size",
-                    "value": 100
-                  },
-                  "unit": {
-                    "type": "string",
-                    "value": "percent"
-                  }
-                }
-              }
-            },
-            "type": "typography"
-          },
-          "s": {
-            "value": {
-              "font": {
-                "type": "font",
-                "value": {
-                  "family": {
-                    "type": "string",
-                    "value": "Poppins"
-                  },
-                  "subfamily": {
-                    "type": "string",
-                    "value": "500"
-                  }
-                }
-              },
-              "fontSize": {
-                "type": "measure",
-                "value": {
-                  "measure": {
-                    "type": "size",
-                    "value": 12
-                  },
-                  "unit": {
-                    "type": "string",
-                    "value": "pixels"
-                  }
-                }
-              },
-              "textDecoration": "None",
-              "textCase": "Original",
-              "letterSpacing": {
-                "type": "measure",
-                "value": {
-                  "measure": {
-                    "type": "size",
-                    "value": 0
-                  },
-                  "unit": {
-                    "type": "string",
-                    "value": "percent"
-                  }
-                }
-              },
-              "paragraphIndent": {
-                "type": "measure",
-                "value": {
-                  "measure": {
-                    "type": "size",
-                    "value": 0
-                  },
-                  "unit": {
-                    "type": "string",
-                    "value": "pixels"
-                  }
-                }
-              },
-              "lineHeight": {
-                "type": "measure",
-                "value": {
-                  "measure": {
-                    "type": "size",
-                    "value": 100
-                  },
-                  "unit": {
-                    "type": "string",
-                    "value": "percent"
-                  }
-                }
-              }
-            },
-            "type": "typography"
-          },
-          "ml": {
-            "value": {
-              "font": {
-                "type": "font",
-                "value": {
-                  "family": {
-                    "type": "string",
-                    "value": "Poppins"
-                  },
-                  "subfamily": {
-                    "type": "string",
-                    "value": "500"
-                  }
-                }
-              },
-              "fontSize": {
-                "type": "measure",
-                "value": {
-                  "measure": {
-                    "type": "size",
-                    "value": 18
-                  },
-                  "unit": {
-                    "type": "string",
-                    "value": "pixels"
-                  }
-                }
-              },
-              "textDecoration": "None",
-              "textCase": "Original",
-              "letterSpacing": {
-                "type": "measure",
-                "value": {
-                  "measure": {
-                    "type": "size",
-                    "value": 0
-                  },
-                  "unit": {
-                    "type": "string",
-                    "value": "percent"
-                  }
-                }
-              },
-              "paragraphIndent": {
-                "type": "measure",
-                "value": {
-                  "measure": {
-                    "type": "size",
-                    "value": 0
-                  },
-                  "unit": {
-                    "type": "string",
-                    "value": "pixels"
-                  }
-                }
-              },
-              "lineHeight": {
-                "type": "measure",
-                "value": {
-                  "measure": {
-                    "type": "size",
-                    "value": 100
-                  },
-                  "unit": {
-                    "type": "string",
-                    "value": "percent"
-                  }
-                }
-              }
-            },
-            "type": "typography"
-          },
-          "l": {
-            "value": {
-              "font": {
-                "type": "font",
-                "value": {
-                  "family": {
-                    "type": "string",
-                    "value": "Poppins"
-                  },
-                  "subfamily": {
-                    "type": "string",
-                    "value": "500"
-                  }
-                }
-              },
-              "fontSize": {
-                "type": "measure",
-                "value": {
-                  "measure": {
-                    "type": "size",
-                    "value": 24
-                  },
-                  "unit": {
-                    "type": "string",
-                    "value": "pixels"
-                  }
-                }
-              },
-              "textDecoration": "None",
-              "textCase": "Original",
-              "letterSpacing": {
-                "type": "measure",
-                "value": {
-                  "measure": {
-                    "type": "size",
-                    "value": 0
-                  },
-                  "unit": {
-                    "type": "string",
-                    "value": "percent"
-                  }
-                }
-              },
-              "paragraphIndent": {
-                "type": "measure",
-                "value": {
-                  "measure": {
-                    "type": "size",
-                    "value": 0
-                  },
-                  "unit": {
-                    "type": "string",
-                    "value": "pixels"
-                  }
-                }
-              },
-              "lineHeight": {
-                "type": "measure",
-                "value": {
-                  "measure": {
-                    "type": "size",
-                    "value": 100
-                  },
-                  "unit": {
-                    "type": "string",
-                    "value": "percent"
-                  }
-                }
-              }
-            },
-            "type": "typography"
-          }
-        },
-        "default": {
-          "s": {
-            "value": {
-              "font": {
-                "type": "font",
-                "value": {
-                  "family": {
-                    "type": "string",
-                    "value": "Poppins"
-                  },
-                  "subfamily": {
-                    "type": "string",
-                    "value": "400"
-                  }
-                }
-              },
-              "fontSize": {
-                "type": "measure",
-                "value": {
-                  "measure": {
-                    "type": "size",
-                    "value": 12
-                  },
-                  "unit": {
-                    "type": "string",
-                    "value": "pixels"
-                  }
-                }
-              },
-              "textDecoration": "None",
-              "textCase": "Original",
-              "letterSpacing": {
-                "type": "measure",
-                "value": {
-                  "measure": {
-                    "type": "size",
-                    "value": 0
-                  },
-                  "unit": {
-                    "type": "string",
-                    "value": "percent"
-                  }
-                }
-              },
-              "paragraphIndent": {
-                "type": "measure",
-                "value": {
-                  "measure": {
-                    "type": "size",
-                    "value": 0
-                  },
-                  "unit": {
-                    "type": "string",
-                    "value": "pixels"
-                  }
-                }
-              },
-              "lineHeight": {
-                "type": "measure",
-                "value": {
-                  "measure": {
-                    "type": "size",
-                    "value": 100
-                  },
-                  "unit": {
-                    "type": "string",
-                    "value": "percent"
-                  }
-                }
-              }
-            },
-            "type": "typography"
-          },
-          "sm": {
-            "value": {
-              "font": {
-                "type": "font",
-                "value": {
-                  "family": {
-                    "type": "string",
-                    "value": "Poppins"
-                  },
-                  "subfamily": {
-                    "type": "string",
-                    "value": "400"
-                  }
-                }
-              },
-              "fontSize": {
-                "type": "measure",
-                "value": {
-                  "measure": {
-                    "type": "size",
-                    "value": 14
-                  },
-                  "unit": {
-                    "type": "string",
-                    "value": "pixels"
-                  }
-                }
-              },
-              "textDecoration": "None",
-              "textCase": "Original",
-              "letterSpacing": {
-                "type": "measure",
-                "value": {
-                  "measure": {
-                    "type": "size",
-                    "value": 0
-                  },
-                  "unit": {
-                    "type": "string",
-                    "value": "percent"
-                  }
-                }
-              },
-              "paragraphIndent": {
-                "type": "measure",
-                "value": {
-                  "measure": {
-                    "type": "size",
-                    "value": 0
-                  },
-                  "unit": {
-                    "type": "string",
-                    "value": "pixels"
-                  }
-                }
-              },
-              "lineHeight": {
-                "type": "measure",
-                "value": {
-                  "measure": {
-                    "type": "size",
-                    "value": 100
-                  },
-                  "unit": {
-                    "type": "string",
-                    "value": "percent"
-                  }
-                }
-              }
-            },
-            "type": "typography"
-          },
-          "m": {
-            "value": {
-              "font": {
-                "type": "font",
-                "value": {
-                  "family": {
-                    "type": "string",
-                    "value": "Poppins"
-                  },
-                  "subfamily": {
-                    "type": "string",
-                    "value": "400"
-                  }
-                }
-              },
-              "fontSize": {
-                "type": "measure",
-                "value": {
-                  "measure": {
-                    "type": "size",
-                    "value": 16
-                  },
-                  "unit": {
-                    "type": "string",
-                    "value": "pixels"
-                  }
-                }
-              },
-              "textDecoration": "None",
-              "textCase": "Original",
-              "letterSpacing": {
-                "type": "measure",
-                "value": {
-                  "measure": {
-                    "type": "size",
-                    "value": 0
-                  },
-                  "unit": {
-                    "type": "string",
-                    "value": "percent"
-                  }
-                }
-              },
-              "paragraphIndent": {
-                "type": "measure",
-                "value": {
-                  "measure": {
-                    "type": "size",
-                    "value": 0
-                  },
-                  "unit": {
-                    "type": "string",
-                    "value": "pixels"
-                  }
-                }
-              },
-              "lineHeight": {
-                "type": "measure",
-                "value": {
-                  "measure": {
-                    "type": "size",
-                    "value": 100
-                  },
-                  "unit": {
-                    "type": "string",
-                    "value": "percent"
-                  }
-                }
-              }
-            },
-            "type": "typography"
-          },
-          "ml": {
-            "value": {
-              "font": {
-                "type": "font",
-                "value": {
-                  "family": {
-                    "type": "string",
-                    "value": "Poppins"
-                  },
-                  "subfamily": {
-                    "type": "string",
-                    "value": "400"
-                  }
-                }
-              },
-              "fontSize": {
-                "type": "measure",
-                "value": {
-                  "measure": {
-                    "type": "size",
-                    "value": 18
-                  },
-                  "unit": {
-                    "type": "string",
-                    "value": "pixels"
-                  }
-                }
-              },
-              "textDecoration": "None",
-              "textCase": "Original",
-              "letterSpacing": {
-                "type": "measure",
-                "value": {
-                  "measure": {
-                    "type": "size",
-                    "value": 0
-                  },
-                  "unit": {
-                    "type": "string",
-                    "value": "percent"
-                  }
-                }
-              },
-              "paragraphIndent": {
-                "type": "measure",
-                "value": {
-                  "measure": {
-                    "type": "size",
-                    "value": 0
-                  },
-                  "unit": {
-                    "type": "string",
-                    "value": "pixels"
-                  }
-                }
-              },
-              "lineHeight": {
-                "type": "measure",
-                "value": {
-                  "measure": {
-                    "type": "size",
-                    "value": 100
-                  },
-                  "unit": {
-                    "type": "string",
-                    "value": "percent"
-                  }
-                }
-              }
-            },
-            "type": "typography"
-          },
-          "l": {
-            "value": {
-              "font": {
-                "type": "font",
-                "value": {
-                  "family": {
-                    "type": "string",
-                    "value": "Poppins"
-                  },
-                  "subfamily": {
-                    "type": "string",
-                    "value": "400"
-                  }
-                }
-              },
-              "fontSize": {
-                "type": "measure",
-                "value": {
-                  "measure": {
-                    "type": "size",
-                    "value": 24
-                  },
-                  "unit": {
-                    "type": "string",
-                    "value": "pixels"
-                  }
-                }
-              },
-              "textDecoration": "None",
-              "textCase": "Original",
-              "letterSpacing": {
-                "type": "measure",
-                "value": {
-                  "measure": {
-                    "type": "size",
-                    "value": 0
-                  },
-                  "unit": {
-                    "type": "string",
-                    "value": "percent"
-                  }
-                }
-              },
-              "paragraphIndent": {
-                "type": "measure",
-                "value": {
-                  "measure": {
-                    "type": "size",
-                    "value": 0
-                  },
-                  "unit": {
-                    "type": "string",
-                    "value": "pixels"
-                  }
-                }
-              },
-              "lineHeight": {
-                "type": "measure",
-                "value": {
-                  "measure": {
-                    "type": "size",
-                    "value": 100
-                  },
-                  "unit": {
-                    "type": "string",
-                    "value": "percent"
-                  }
-                }
-              }
-            },
-            "type": "typography"
-          }
-        },
         "strong": {
           "xxs": {
             "value": {
@@ -1449,79 +725,731 @@
             },
             "type": "typography"
           }
-        }
-      },
-      "heading": {
-        "value": {
-          "font": {
-            "type": "font",
+        },
+        "default": {
+          "s": {
             "value": {
-              "family": {
-                "type": "string",
-                "value": "Poppins"
+              "font": {
+                "type": "font",
+                "value": {
+                  "family": {
+                    "type": "string",
+                    "value": "Poppins"
+                  },
+                  "subfamily": {
+                    "type": "string",
+                    "value": "400"
+                  }
+                }
               },
-              "subfamily": {
-                "type": "string",
-                "value": "600"
+              "fontSize": {
+                "type": "measure",
+                "value": {
+                  "measure": {
+                    "type": "size",
+                    "value": 12
+                  },
+                  "unit": {
+                    "type": "string",
+                    "value": "pixels"
+                  }
+                }
+              },
+              "textDecoration": "None",
+              "textCase": "Original",
+              "letterSpacing": {
+                "type": "measure",
+                "value": {
+                  "measure": {
+                    "type": "size",
+                    "value": 0
+                  },
+                  "unit": {
+                    "type": "string",
+                    "value": "percent"
+                  }
+                }
+              },
+              "paragraphIndent": {
+                "type": "measure",
+                "value": {
+                  "measure": {
+                    "type": "size",
+                    "value": 0
+                  },
+                  "unit": {
+                    "type": "string",
+                    "value": "pixels"
+                  }
+                }
+              },
+              "lineHeight": {
+                "type": "measure",
+                "value": {
+                  "measure": {
+                    "type": "size",
+                    "value": 100
+                  },
+                  "unit": {
+                    "type": "string",
+                    "value": "percent"
+                  }
+                }
               }
-            }
+            },
+            "type": "typography"
           },
-          "fontSize": {
-            "type": "measure",
+          "sm": {
             "value": {
-              "measure": {
-                "type": "size",
-                "value": 24
+              "font": {
+                "type": "font",
+                "value": {
+                  "family": {
+                    "type": "string",
+                    "value": "Poppins"
+                  },
+                  "subfamily": {
+                    "type": "string",
+                    "value": "400"
+                  }
+                }
               },
-              "unit": {
-                "type": "string",
-                "value": "pixels"
+              "fontSize": {
+                "type": "measure",
+                "value": {
+                  "measure": {
+                    "type": "size",
+                    "value": 14
+                  },
+                  "unit": {
+                    "type": "string",
+                    "value": "pixels"
+                  }
+                }
+              },
+              "textDecoration": "None",
+              "textCase": "Original",
+              "letterSpacing": {
+                "type": "measure",
+                "value": {
+                  "measure": {
+                    "type": "size",
+                    "value": 0
+                  },
+                  "unit": {
+                    "type": "string",
+                    "value": "percent"
+                  }
+                }
+              },
+              "paragraphIndent": {
+                "type": "measure",
+                "value": {
+                  "measure": {
+                    "type": "size",
+                    "value": 0
+                  },
+                  "unit": {
+                    "type": "string",
+                    "value": "pixels"
+                  }
+                }
+              },
+              "lineHeight": {
+                "type": "measure",
+                "value": {
+                  "measure": {
+                    "type": "size",
+                    "value": 100
+                  },
+                  "unit": {
+                    "type": "string",
+                    "value": "percent"
+                  }
+                }
               }
-            }
+            },
+            "type": "typography"
           },
-          "textDecoration": "None",
-          "textCase": "Original",
-          "letterSpacing": {
-            "type": "measure",
+          "m": {
             "value": {
-              "measure": {
-                "type": "size",
-                "value": 0
+              "font": {
+                "type": "font",
+                "value": {
+                  "family": {
+                    "type": "string",
+                    "value": "Poppins"
+                  },
+                  "subfamily": {
+                    "type": "string",
+                    "value": "400"
+                  }
+                }
               },
-              "unit": {
-                "type": "string",
-                "value": "percent"
+              "fontSize": {
+                "type": "measure",
+                "value": {
+                  "measure": {
+                    "type": "size",
+                    "value": 16
+                  },
+                  "unit": {
+                    "type": "string",
+                    "value": "pixels"
+                  }
+                }
+              },
+              "textDecoration": "None",
+              "textCase": "Original",
+              "letterSpacing": {
+                "type": "measure",
+                "value": {
+                  "measure": {
+                    "type": "size",
+                    "value": 0
+                  },
+                  "unit": {
+                    "type": "string",
+                    "value": "percent"
+                  }
+                }
+              },
+              "paragraphIndent": {
+                "type": "measure",
+                "value": {
+                  "measure": {
+                    "type": "size",
+                    "value": 0
+                  },
+                  "unit": {
+                    "type": "string",
+                    "value": "pixels"
+                  }
+                }
+              },
+              "lineHeight": {
+                "type": "measure",
+                "value": {
+                  "measure": {
+                    "type": "size",
+                    "value": 100
+                  },
+                  "unit": {
+                    "type": "string",
+                    "value": "percent"
+                  }
+                }
               }
-            }
+            },
+            "type": "typography"
           },
-          "paragraphIndent": {
-            "type": "measure",
+          "ml": {
             "value": {
-              "measure": {
-                "type": "size",
-                "value": 0
+              "font": {
+                "type": "font",
+                "value": {
+                  "family": {
+                    "type": "string",
+                    "value": "Poppins"
+                  },
+                  "subfamily": {
+                    "type": "string",
+                    "value": "400"
+                  }
+                }
               },
-              "unit": {
-                "type": "string",
-                "value": "pixels"
+              "fontSize": {
+                "type": "measure",
+                "value": {
+                  "measure": {
+                    "type": "size",
+                    "value": 18
+                  },
+                  "unit": {
+                    "type": "string",
+                    "value": "pixels"
+                  }
+                }
+              },
+              "textDecoration": "None",
+              "textCase": "Original",
+              "letterSpacing": {
+                "type": "measure",
+                "value": {
+                  "measure": {
+                    "type": "size",
+                    "value": 0
+                  },
+                  "unit": {
+                    "type": "string",
+                    "value": "percent"
+                  }
+                }
+              },
+              "paragraphIndent": {
+                "type": "measure",
+                "value": {
+                  "measure": {
+                    "type": "size",
+                    "value": 0
+                  },
+                  "unit": {
+                    "type": "string",
+                    "value": "pixels"
+                  }
+                }
+              },
+              "lineHeight": {
+                "type": "measure",
+                "value": {
+                  "measure": {
+                    "type": "size",
+                    "value": 100
+                  },
+                  "unit": {
+                    "type": "string",
+                    "value": "percent"
+                  }
+                }
               }
-            }
+            },
+            "type": "typography"
           },
-          "lineHeight": {
-            "type": "measure",
+          "l": {
             "value": {
-              "measure": {
-                "type": "size",
-                "value": 130
+              "font": {
+                "type": "font",
+                "value": {
+                  "family": {
+                    "type": "string",
+                    "value": "Poppins"
+                  },
+                  "subfamily": {
+                    "type": "string",
+                    "value": "400"
+                  }
+                }
               },
-              "unit": {
-                "type": "string",
-                "value": "percent"
+              "fontSize": {
+                "type": "measure",
+                "value": {
+                  "measure": {
+                    "type": "size",
+                    "value": 24
+                  },
+                  "unit": {
+                    "type": "string",
+                    "value": "pixels"
+                  }
+                }
+              },
+              "textDecoration": "None",
+              "textCase": "Original",
+              "letterSpacing": {
+                "type": "measure",
+                "value": {
+                  "measure": {
+                    "type": "size",
+                    "value": 0
+                  },
+                  "unit": {
+                    "type": "string",
+                    "value": "percent"
+                  }
+                }
+              },
+              "paragraphIndent": {
+                "type": "measure",
+                "value": {
+                  "measure": {
+                    "type": "size",
+                    "value": 0
+                  },
+                  "unit": {
+                    "type": "string",
+                    "value": "pixels"
+                  }
+                }
+              },
+              "lineHeight": {
+                "type": "measure",
+                "value": {
+                  "measure": {
+                    "type": "size",
+                    "value": 100
+                  },
+                  "unit": {
+                    "type": "string",
+                    "value": "percent"
+                  }
+                }
               }
-            }
+            },
+            "type": "typography"
           }
         },
-        "type": "typography"
+        "medium": {
+          "s": {
+            "value": {
+              "font": {
+                "type": "font",
+                "value": {
+                  "family": {
+                    "type": "string",
+                    "value": "Poppins"
+                  },
+                  "subfamily": {
+                    "type": "string",
+                    "value": "500"
+                  }
+                }
+              },
+              "fontSize": {
+                "type": "measure",
+                "value": {
+                  "measure": {
+                    "type": "size",
+                    "value": 12
+                  },
+                  "unit": {
+                    "type": "string",
+                    "value": "pixels"
+                  }
+                }
+              },
+              "textDecoration": "None",
+              "textCase": "Original",
+              "letterSpacing": {
+                "type": "measure",
+                "value": {
+                  "measure": {
+                    "type": "size",
+                    "value": 0
+                  },
+                  "unit": {
+                    "type": "string",
+                    "value": "percent"
+                  }
+                }
+              },
+              "paragraphIndent": {
+                "type": "measure",
+                "value": {
+                  "measure": {
+                    "type": "size",
+                    "value": 0
+                  },
+                  "unit": {
+                    "type": "string",
+                    "value": "pixels"
+                  }
+                }
+              },
+              "lineHeight": {
+                "type": "measure",
+                "value": {
+                  "measure": {
+                    "type": "size",
+                    "value": 100
+                  },
+                  "unit": {
+                    "type": "string",
+                    "value": "percent"
+                  }
+                }
+              }
+            },
+            "type": "typography"
+          },
+          "m": {
+            "value": {
+              "font": {
+                "type": "font",
+                "value": {
+                  "family": {
+                    "type": "string",
+                    "value": "Poppins"
+                  },
+                  "subfamily": {
+                    "type": "string",
+                    "value": "500"
+                  }
+                }
+              },
+              "fontSize": {
+                "type": "measure",
+                "value": {
+                  "measure": {
+                    "type": "size",
+                    "value": 16
+                  },
+                  "unit": {
+                    "type": "string",
+                    "value": "pixels"
+                  }
+                }
+              },
+              "textDecoration": "None",
+              "textCase": "Original",
+              "letterSpacing": {
+                "type": "measure",
+                "value": {
+                  "measure": {
+                    "type": "size",
+                    "value": 0
+                  },
+                  "unit": {
+                    "type": "string",
+                    "value": "percent"
+                  }
+                }
+              },
+              "paragraphIndent": {
+                "type": "measure",
+                "value": {
+                  "measure": {
+                    "type": "size",
+                    "value": 0
+                  },
+                  "unit": {
+                    "type": "string",
+                    "value": "pixels"
+                  }
+                }
+              },
+              "lineHeight": {
+                "type": "measure",
+                "value": {
+                  "measure": {
+                    "type": "size",
+                    "value": 100
+                  },
+                  "unit": {
+                    "type": "string",
+                    "value": "percent"
+                  }
+                }
+              }
+            },
+            "type": "typography"
+          },
+          "sm": {
+            "value": {
+              "font": {
+                "type": "font",
+                "value": {
+                  "family": {
+                    "type": "string",
+                    "value": "Poppins"
+                  },
+                  "subfamily": {
+                    "type": "string",
+                    "value": "500"
+                  }
+                }
+              },
+              "fontSize": {
+                "type": "measure",
+                "value": {
+                  "measure": {
+                    "type": "size",
+                    "value": 14
+                  },
+                  "unit": {
+                    "type": "string",
+                    "value": "pixels"
+                  }
+                }
+              },
+              "textDecoration": "None",
+              "textCase": "Original",
+              "letterSpacing": {
+                "type": "measure",
+                "value": {
+                  "measure": {
+                    "type": "size",
+                    "value": 0
+                  },
+                  "unit": {
+                    "type": "string",
+                    "value": "percent"
+                  }
+                }
+              },
+              "paragraphIndent": {
+                "type": "measure",
+                "value": {
+                  "measure": {
+                    "type": "size",
+                    "value": 0
+                  },
+                  "unit": {
+                    "type": "string",
+                    "value": "pixels"
+                  }
+                }
+              },
+              "lineHeight": {
+                "type": "measure",
+                "value": {
+                  "measure": {
+                    "type": "size",
+                    "value": 100
+                  },
+                  "unit": {
+                    "type": "string",
+                    "value": "percent"
+                  }
+                }
+              }
+            },
+            "type": "typography"
+          },
+          "ml": {
+            "value": {
+              "font": {
+                "type": "font",
+                "value": {
+                  "family": {
+                    "type": "string",
+                    "value": "Poppins"
+                  },
+                  "subfamily": {
+                    "type": "string",
+                    "value": "500"
+                  }
+                }
+              },
+              "fontSize": {
+                "type": "measure",
+                "value": {
+                  "measure": {
+                    "type": "size",
+                    "value": 18
+                  },
+                  "unit": {
+                    "type": "string",
+                    "value": "pixels"
+                  }
+                }
+              },
+              "textDecoration": "None",
+              "textCase": "Original",
+              "letterSpacing": {
+                "type": "measure",
+                "value": {
+                  "measure": {
+                    "type": "size",
+                    "value": 0
+                  },
+                  "unit": {
+                    "type": "string",
+                    "value": "percent"
+                  }
+                }
+              },
+              "paragraphIndent": {
+                "type": "measure",
+                "value": {
+                  "measure": {
+                    "type": "size",
+                    "value": 0
+                  },
+                  "unit": {
+                    "type": "string",
+                    "value": "pixels"
+                  }
+                }
+              },
+              "lineHeight": {
+                "type": "measure",
+                "value": {
+                  "measure": {
+                    "type": "size",
+                    "value": 100
+                  },
+                  "unit": {
+                    "type": "string",
+                    "value": "percent"
+                  }
+                }
+              }
+            },
+            "type": "typography"
+          },
+          "l": {
+            "value": {
+              "font": {
+                "type": "font",
+                "value": {
+                  "family": {
+                    "type": "string",
+                    "value": "Poppins"
+                  },
+                  "subfamily": {
+                    "type": "string",
+                    "value": "500"
+                  }
+                }
+              },
+              "fontSize": {
+                "type": "measure",
+                "value": {
+                  "measure": {
+                    "type": "size",
+                    "value": 24
+                  },
+                  "unit": {
+                    "type": "string",
+                    "value": "pixels"
+                  }
+                }
+              },
+              "textDecoration": "None",
+              "textCase": "Original",
+              "letterSpacing": {
+                "type": "measure",
+                "value": {
+                  "measure": {
+                    "type": "size",
+                    "value": 0
+                  },
+                  "unit": {
+                    "type": "string",
+                    "value": "percent"
+                  }
+                }
+              },
+              "paragraphIndent": {
+                "type": "measure",
+                "value": {
+                  "measure": {
+                    "type": "size",
+                    "value": 0
+                  },
+                  "unit": {
+                    "type": "string",
+                    "value": "pixels"
+                  }
+                }
+              },
+              "lineHeight": {
+                "type": "measure",
+                "value": {
+                  "measure": {
+                    "type": "size",
+                    "value": 100
+                  },
+                  "unit": {
+                    "type": "string",
+                    "value": "percent"
+                  }
+                }
+              }
+            },
+            "type": "typography"
+          }
+        }
       },
       "subheading": {
         "value": {
@@ -1759,7 +1687,7 @@
             "value": {
               "measure": {
                 "type": "size",
-                "value": 12
+                "value": 10
               },
               "unit": {
                 "type": "string",
@@ -1774,7 +1702,7 @@
             "value": {
               "measure": {
                 "type": "size",
-                "value": 0
+                "value": 2
               },
               "unit": {
                 "type": "string",
@@ -1812,7 +1740,7 @@
         "type": "typography"
       }
     },
-    "typography-new-ar": {
+    "ar": {
       "body-new": {
         "regular": {
           "value": {
@@ -3773,368 +3701,6 @@
           }
         },
         "interface": {
-          "default": {
-            "s": {
-              "value": {
-                "font": {
-                  "type": "font",
-                  "value": {
-                    "family": {
-                      "type": "string",
-                      "value": "IBM Plex Sans Arabic"
-                    },
-                    "subfamily": {
-                      "type": "string",
-                      "value": "400"
-                    }
-                  }
-                },
-                "fontSize": {
-                  "type": "measure",
-                  "value": {
-                    "measure": {
-                      "type": "size",
-                      "value": 12
-                    },
-                    "unit": {
-                      "type": "string",
-                      "value": "pixels"
-                    }
-                  }
-                },
-                "textDecoration": "None",
-                "textCase": "Original",
-                "letterSpacing": {
-                  "type": "measure",
-                  "value": {
-                    "measure": {
-                      "type": "size",
-                      "value": 0
-                    },
-                    "unit": {
-                      "type": "string",
-                      "value": "percent"
-                    }
-                  }
-                },
-                "paragraphIndent": {
-                  "type": "measure",
-                  "value": {
-                    "measure": {
-                      "type": "size",
-                      "value": 0
-                    },
-                    "unit": {
-                      "type": "string",
-                      "value": "pixels"
-                    }
-                  }
-                },
-                "lineHeight": {
-                  "type": "measure",
-                  "value": {
-                    "measure": {
-                      "type": "size",
-                      "value": 100
-                    },
-                    "unit": {
-                      "type": "string",
-                      "value": "percent"
-                    }
-                  }
-                }
-              },
-              "type": "typography"
-            },
-            "sm": {
-              "value": {
-                "font": {
-                  "type": "font",
-                  "value": {
-                    "family": {
-                      "type": "string",
-                      "value": "IBM Plex Sans Arabic"
-                    },
-                    "subfamily": {
-                      "type": "string",
-                      "value": "400"
-                    }
-                  }
-                },
-                "fontSize": {
-                  "type": "measure",
-                  "value": {
-                    "measure": {
-                      "type": "size",
-                      "value": 14
-                    },
-                    "unit": {
-                      "type": "string",
-                      "value": "pixels"
-                    }
-                  }
-                },
-                "textDecoration": "None",
-                "textCase": "Original",
-                "letterSpacing": {
-                  "type": "measure",
-                  "value": {
-                    "measure": {
-                      "type": "size",
-                      "value": 0
-                    },
-                    "unit": {
-                      "type": "string",
-                      "value": "percent"
-                    }
-                  }
-                },
-                "paragraphIndent": {
-                  "type": "measure",
-                  "value": {
-                    "measure": {
-                      "type": "size",
-                      "value": 0
-                    },
-                    "unit": {
-                      "type": "string",
-                      "value": "pixels"
-                    }
-                  }
-                },
-                "lineHeight": {
-                  "type": "measure",
-                  "value": {
-                    "measure": {
-                      "type": "size",
-                      "value": 100
-                    },
-                    "unit": {
-                      "type": "string",
-                      "value": "percent"
-                    }
-                  }
-                }
-              },
-              "type": "typography"
-            },
-            "m": {
-              "value": {
-                "font": {
-                  "type": "font",
-                  "value": {
-                    "family": {
-                      "type": "string",
-                      "value": "IBM Plex Sans Arabic"
-                    },
-                    "subfamily": {
-                      "type": "string",
-                      "value": "400"
-                    }
-                  }
-                },
-                "fontSize": {
-                  "type": "measure",
-                  "value": {
-                    "measure": {
-                      "type": "size",
-                      "value": 16
-                    },
-                    "unit": {
-                      "type": "string",
-                      "value": "pixels"
-                    }
-                  }
-                },
-                "textDecoration": "None",
-                "textCase": "Original",
-                "letterSpacing": {
-                  "type": "measure",
-                  "value": {
-                    "measure": {
-                      "type": "size",
-                      "value": 0
-                    },
-                    "unit": {
-                      "type": "string",
-                      "value": "percent"
-                    }
-                  }
-                },
-                "paragraphIndent": {
-                  "type": "measure",
-                  "value": {
-                    "measure": {
-                      "type": "size",
-                      "value": 0
-                    },
-                    "unit": {
-                      "type": "string",
-                      "value": "pixels"
-                    }
-                  }
-                },
-                "lineHeight": {
-                  "type": "measure",
-                  "value": {
-                    "measure": {
-                      "type": "size",
-                      "value": 100
-                    },
-                    "unit": {
-                      "type": "string",
-                      "value": "percent"
-                    }
-                  }
-                }
-              },
-              "type": "typography"
-            },
-            "ml": {
-              "value": {
-                "font": {
-                  "type": "font",
-                  "value": {
-                    "family": {
-                      "type": "string",
-                      "value": "IBM Plex Sans Arabic"
-                    },
-                    "subfamily": {
-                      "type": "string",
-                      "value": "400"
-                    }
-                  }
-                },
-                "fontSize": {
-                  "type": "measure",
-                  "value": {
-                    "measure": {
-                      "type": "size",
-                      "value": 18
-                    },
-                    "unit": {
-                      "type": "string",
-                      "value": "pixels"
-                    }
-                  }
-                },
-                "textDecoration": "None",
-                "textCase": "Original",
-                "letterSpacing": {
-                  "type": "measure",
-                  "value": {
-                    "measure": {
-                      "type": "size",
-                      "value": 0
-                    },
-                    "unit": {
-                      "type": "string",
-                      "value": "percent"
-                    }
-                  }
-                },
-                "paragraphIndent": {
-                  "type": "measure",
-                  "value": {
-                    "measure": {
-                      "type": "size",
-                      "value": 0
-                    },
-                    "unit": {
-                      "type": "string",
-                      "value": "pixels"
-                    }
-                  }
-                },
-                "lineHeight": {
-                  "type": "measure",
-                  "value": {
-                    "measure": {
-                      "type": "size",
-                      "value": 100
-                    },
-                    "unit": {
-                      "type": "string",
-                      "value": "percent"
-                    }
-                  }
-                }
-              },
-              "type": "typography"
-            },
-            "l": {
-              "value": {
-                "font": {
-                  "type": "font",
-                  "value": {
-                    "family": {
-                      "type": "string",
-                      "value": "IBM Plex Sans Arabic"
-                    },
-                    "subfamily": {
-                      "type": "string",
-                      "value": "400"
-                    }
-                  }
-                },
-                "fontSize": {
-                  "type": "measure",
-                  "value": {
-                    "measure": {
-                      "type": "size",
-                      "value": 24
-                    },
-                    "unit": {
-                      "type": "string",
-                      "value": "pixels"
-                    }
-                  }
-                },
-                "textDecoration": "None",
-                "textCase": "Original",
-                "letterSpacing": {
-                  "type": "measure",
-                  "value": {
-                    "measure": {
-                      "type": "size",
-                      "value": 0
-                    },
-                    "unit": {
-                      "type": "string",
-                      "value": "percent"
-                    }
-                  }
-                },
-                "paragraphIndent": {
-                  "type": "measure",
-                  "value": {
-                    "measure": {
-                      "type": "size",
-                      "value": 0
-                    },
-                    "unit": {
-                      "type": "string",
-                      "value": "pixels"
-                    }
-                  }
-                },
-                "lineHeight": {
-                  "type": "measure",
-                  "value": {
-                    "measure": {
-                      "type": "size",
-                      "value": 100
-                    },
-                    "unit": {
-                      "type": "string",
-                      "value": "percent"
-                    }
-                  }
-                }
-              },
-              "type": "typography"
-            }
-          },
           "medium": {
             "sm": {
               "value": {
@@ -4870,6 +4436,368 @@
                     "subfamily": {
                       "type": "string",
                       "value": "600"
+                    }
+                  }
+                },
+                "fontSize": {
+                  "type": "measure",
+                  "value": {
+                    "measure": {
+                      "type": "size",
+                      "value": 24
+                    },
+                    "unit": {
+                      "type": "string",
+                      "value": "pixels"
+                    }
+                  }
+                },
+                "textDecoration": "None",
+                "textCase": "Original",
+                "letterSpacing": {
+                  "type": "measure",
+                  "value": {
+                    "measure": {
+                      "type": "size",
+                      "value": 0
+                    },
+                    "unit": {
+                      "type": "string",
+                      "value": "percent"
+                    }
+                  }
+                },
+                "paragraphIndent": {
+                  "type": "measure",
+                  "value": {
+                    "measure": {
+                      "type": "size",
+                      "value": 0
+                    },
+                    "unit": {
+                      "type": "string",
+                      "value": "pixels"
+                    }
+                  }
+                },
+                "lineHeight": {
+                  "type": "measure",
+                  "value": {
+                    "measure": {
+                      "type": "size",
+                      "value": 100
+                    },
+                    "unit": {
+                      "type": "string",
+                      "value": "percent"
+                    }
+                  }
+                }
+              },
+              "type": "typography"
+            }
+          },
+          "default": {
+            "s": {
+              "value": {
+                "font": {
+                  "type": "font",
+                  "value": {
+                    "family": {
+                      "type": "string",
+                      "value": "IBM Plex Sans Arabic"
+                    },
+                    "subfamily": {
+                      "type": "string",
+                      "value": "400"
+                    }
+                  }
+                },
+                "fontSize": {
+                  "type": "measure",
+                  "value": {
+                    "measure": {
+                      "type": "size",
+                      "value": 12
+                    },
+                    "unit": {
+                      "type": "string",
+                      "value": "pixels"
+                    }
+                  }
+                },
+                "textDecoration": "None",
+                "textCase": "Original",
+                "letterSpacing": {
+                  "type": "measure",
+                  "value": {
+                    "measure": {
+                      "type": "size",
+                      "value": 0
+                    },
+                    "unit": {
+                      "type": "string",
+                      "value": "percent"
+                    }
+                  }
+                },
+                "paragraphIndent": {
+                  "type": "measure",
+                  "value": {
+                    "measure": {
+                      "type": "size",
+                      "value": 0
+                    },
+                    "unit": {
+                      "type": "string",
+                      "value": "pixels"
+                    }
+                  }
+                },
+                "lineHeight": {
+                  "type": "measure",
+                  "value": {
+                    "measure": {
+                      "type": "size",
+                      "value": 100
+                    },
+                    "unit": {
+                      "type": "string",
+                      "value": "percent"
+                    }
+                  }
+                }
+              },
+              "type": "typography"
+            },
+            "sm": {
+              "value": {
+                "font": {
+                  "type": "font",
+                  "value": {
+                    "family": {
+                      "type": "string",
+                      "value": "IBM Plex Sans Arabic"
+                    },
+                    "subfamily": {
+                      "type": "string",
+                      "value": "400"
+                    }
+                  }
+                },
+                "fontSize": {
+                  "type": "measure",
+                  "value": {
+                    "measure": {
+                      "type": "size",
+                      "value": 14
+                    },
+                    "unit": {
+                      "type": "string",
+                      "value": "pixels"
+                    }
+                  }
+                },
+                "textDecoration": "None",
+                "textCase": "Original",
+                "letterSpacing": {
+                  "type": "measure",
+                  "value": {
+                    "measure": {
+                      "type": "size",
+                      "value": 0
+                    },
+                    "unit": {
+                      "type": "string",
+                      "value": "percent"
+                    }
+                  }
+                },
+                "paragraphIndent": {
+                  "type": "measure",
+                  "value": {
+                    "measure": {
+                      "type": "size",
+                      "value": 0
+                    },
+                    "unit": {
+                      "type": "string",
+                      "value": "pixels"
+                    }
+                  }
+                },
+                "lineHeight": {
+                  "type": "measure",
+                  "value": {
+                    "measure": {
+                      "type": "size",
+                      "value": 100
+                    },
+                    "unit": {
+                      "type": "string",
+                      "value": "percent"
+                    }
+                  }
+                }
+              },
+              "type": "typography"
+            },
+            "m": {
+              "value": {
+                "font": {
+                  "type": "font",
+                  "value": {
+                    "family": {
+                      "type": "string",
+                      "value": "IBM Plex Sans Arabic"
+                    },
+                    "subfamily": {
+                      "type": "string",
+                      "value": "400"
+                    }
+                  }
+                },
+                "fontSize": {
+                  "type": "measure",
+                  "value": {
+                    "measure": {
+                      "type": "size",
+                      "value": 16
+                    },
+                    "unit": {
+                      "type": "string",
+                      "value": "pixels"
+                    }
+                  }
+                },
+                "textDecoration": "None",
+                "textCase": "Original",
+                "letterSpacing": {
+                  "type": "measure",
+                  "value": {
+                    "measure": {
+                      "type": "size",
+                      "value": 0
+                    },
+                    "unit": {
+                      "type": "string",
+                      "value": "percent"
+                    }
+                  }
+                },
+                "paragraphIndent": {
+                  "type": "measure",
+                  "value": {
+                    "measure": {
+                      "type": "size",
+                      "value": 0
+                    },
+                    "unit": {
+                      "type": "string",
+                      "value": "pixels"
+                    }
+                  }
+                },
+                "lineHeight": {
+                  "type": "measure",
+                  "value": {
+                    "measure": {
+                      "type": "size",
+                      "value": 100
+                    },
+                    "unit": {
+                      "type": "string",
+                      "value": "percent"
+                    }
+                  }
+                }
+              },
+              "type": "typography"
+            },
+            "ml": {
+              "value": {
+                "font": {
+                  "type": "font",
+                  "value": {
+                    "family": {
+                      "type": "string",
+                      "value": "IBM Plex Sans Arabic"
+                    },
+                    "subfamily": {
+                      "type": "string",
+                      "value": "400"
+                    }
+                  }
+                },
+                "fontSize": {
+                  "type": "measure",
+                  "value": {
+                    "measure": {
+                      "type": "size",
+                      "value": 18
+                    },
+                    "unit": {
+                      "type": "string",
+                      "value": "pixels"
+                    }
+                  }
+                },
+                "textDecoration": "None",
+                "textCase": "Original",
+                "letterSpacing": {
+                  "type": "measure",
+                  "value": {
+                    "measure": {
+                      "type": "size",
+                      "value": 0
+                    },
+                    "unit": {
+                      "type": "string",
+                      "value": "percent"
+                    }
+                  }
+                },
+                "paragraphIndent": {
+                  "type": "measure",
+                  "value": {
+                    "measure": {
+                      "type": "size",
+                      "value": 0
+                    },
+                    "unit": {
+                      "type": "string",
+                      "value": "pixels"
+                    }
+                  }
+                },
+                "lineHeight": {
+                  "type": "measure",
+                  "value": {
+                    "measure": {
+                      "type": "size",
+                      "value": 100
+                    },
+                    "unit": {
+                      "type": "string",
+                      "value": "percent"
+                    }
+                  }
+                }
+              },
+              "type": "typography"
+            },
+            "l": {
+              "value": {
+                "font": {
+                  "type": "font",
+                  "value": {
+                    "family": {
+                      "type": "string",
+                      "value": "IBM Plex Sans Arabic"
+                    },
+                    "subfamily": {
+                      "type": "string",
+                      "value": "400"
                     }
                   }
                 },
