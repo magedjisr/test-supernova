@@ -201,20 +201,25 @@ $colorColorBgAccentRedLightestHovered: $colorBaseColorsRed200;
 $colorColorBgAccentRedLightestPressed: $colorBaseColorsRed300;    
 $colorColorBgBrandLightestDefault: $colorBaseColorsBlue50;    
 $colorColorBgBrandLightestPressed: $colorBaseColorsBlue200;    
-$colorColorBgBrandLightDefault: $colorBaseColorsBlue200;    
-$colorColorBgBrandLightHovered: $colorBaseColorsBlue400;    
+$colorBrand200: $colorBaseColorsBlue200;    
+$colorColorBgBrandLightDefault: $colorBrand200;    
+$colorBrand400: $colorBaseColorsBlue400;    
+$colorColorBgBrandLightHovered: $colorBrand400;    
 $colorColorBgBrandLightestHovered: $colorBaseColorsBlue100;    
-$colorColorBgBrandLightPressed: $colorBaseColorsBlue300;    
+$colorBrand300: $colorBaseColorsBlue300;    
+$colorColorBgBrandLightPressed: $colorBrand300;    
 $colorColorBgDangerLightDefault: $colorBaseColorsRed100;    
 $colorColorBgDangerLightHovered: $colorBaseColorsRed200;    
 $colorColorBgDangerBoldDefault: $colorBaseColorsRed500;    
 $colorColorBgDangerBoldHovered: $colorBaseColorsRed600;    
 $colorColorBgDangerLightPressed: $colorBaseColorsRed300;    
 $colorColorBgDangerBoldPressed: $colorBaseColorsRed700;    
-$colorColorBgBrandBoldDefault: $colorBaseColorsBlue600;    
+$colorBrand600: $colorBaseColorsBlue600;    
+$colorColorBgBrandBoldDefault: $colorBrand600;    
 /* Use for links in default or hovered state. Add underline for hovered states. */
 $colorColorLinkDefault: $colorColorBgBrandBoldDefault;    
-$colorColorBgBrandBoldPressed: $colorBaseColorsBlue800;    
+$colorBrand800: $colorBaseColorsBlue800;    
+$colorColorBgBrandBoldPressed: $colorBrand800;    
 /* Use for links in a pressed state */
 $colorColorLinkPressed: $colorColorBgBrandBoldPressed;    
 /* Use for links in a visited state */
@@ -247,7 +252,8 @@ $colorColorBgInfoBoldDefault: $colorBaseColorsLightblue500;
 $colorColorBgInfoLightPressed: $colorBaseColorsLightblue300;    
 $colorColorBgInfoBoldHovered: $colorBaseColorsLightblue600;    
 $colorColorBgInfoBoldPressed: $colorBaseColorsLightblue700;    
-$colorColorBgBrandBoldHovered: $colorBaseColorsBlue700;    
+$colorBrand700: $colorBaseColorsBlue700;    
+$colorColorBgBrandBoldHovered: $colorBrand700;    
 $colorColorBgAccentRedLighterDefault: $colorBaseColorsRed200;    
 $colorColorBgAccentRedLighterHovered: $colorBaseColorsRed300;    
 $colorColorBgAccentRedLighterPressed: $colorBaseColorsRed400;    
@@ -301,9 +307,10 @@ $colorColorBgAccentOrangeLightPressed: $colorBaseColorsOrange700;
 $colorColorBgAccentOrangeBoldDefault: $colorBaseColorsOrange700;    
 $colorColorBgAccentOrangeBoldHovered: $colorBaseColorsOrange800;    
 $colorColorBgAccentOrangeBoldPressed: $colorBaseColorsOrange900;    
-$colorColorBgBrandLighterDefault: $colorBaseColorsBlue100;    
-$colorColorBgBrandLighterPressed: $colorBaseColorsBlue200;    
-$colorColorBgBrandLighterHovered: $colorBaseColorsBlue300;    
+$colorBrand100: $colorBaseColorsBlue100;    
+$colorColorBgBrandLighterDefault: $colorBrand100;    
+$colorColorBgBrandLighterPressed: $colorBrand300;    
+$colorColorBgBrandLighterHovered: $colorBrand200;    
 /* Use for primary text, such as body copy, sentence case headers;  Use as hover text color for $text-light */
 $colorColorFgDefault: $colorBaseColorsGrey900;    
 /* Use for secondary text, such as navigation, light button links, Inputs labels color; Use as hover text color for $text-lighter */
@@ -335,13 +342,14 @@ $colorColorFgInfoBold: $colorBaseColorsLightblue700;
 /* Use for tertiary text, such as helper text and meta-data; */
 $colorColorFgLighter: $colorBaseColorsGrey600;    
 /* Use for text in selected or opened states. */
-$colorColorFgSelected: $colorBaseColorsBlue800;    
+$colorColorFgSelected: $colorBrand800;    
 /* Use for disabled text state. */
 $colorColorFgDisabled: $colorBaseColorsBlack500;    
 /* Use for text that reinforces our brand. */
-$colorColorFgBrandDefault: $colorBaseColorsBlue700;    
+$colorColorFgBrandDefault: $colorBrand700;    
+$colorBrand900: $colorBaseColorsBlue900;    
 /* Use for text that reinforces our brand. */
-$colorColorFgBrandBolder: $colorBaseColorsBlue900;    
+$colorColorFgBrandBolder: $colorBrand900;    
 /* Use for text on interactive and bold backgrounds. */
 $colorColorFgInverseLight: $colorBaseColorsWhite800;    
 $colorColorFgAccentRedDefault: $colorBaseColorsRed500;    
@@ -378,9 +386,9 @@ $colorColorBgSuccessLightestPressed: $colorBaseColorsGreen200;
 $colorColorBgInfoLightestDefault: $colorBaseColorsLightblue50;    
 $colorColorBgInfoLightestHovered: $colorBaseColorsLightblue100;    
 $colorColorBgInfoLightestPressed: $colorBaseColorsLightblue200;    
-$colorColorBgBrandBolderDefault: $colorBaseColorsBlue700;    
-$colorColorBgBrandBolderHovered: $colorBaseColorsBlue800;    
-$colorColorBgBrandBolderPressed: $colorBaseColorsBlue900;    
+$colorColorBgBrandBolderDefault: $colorBrand700;    
+$colorColorBgBrandBolderHovered: $colorBrand800;    
+$colorColorBgBrandBolderPressed: $colorBrand900;    
 $colorColorBgAccentPinkLightestDefault: $colorBaseColorsPink50;    
 $colorColorBgAccentPinkLightestHovered: $colorBaseColorsPink200;    
 $colorColorBgAccentPinkLightestPressed: $colorBaseColorsPink300;    
@@ -454,11 +462,11 @@ $colorColorBgAccentTealBoldDefault: $colorBaseColorsTeal700;
 $colorColorBgAccentTealBoldHovered: $colorBaseColorsTeal800;    
 $colorColorBgAccentTealBoldPressed: $colorBaseColorsTeal900;    
 $colorColorBgAccentLimeLightestDefault: $colorBaseColorsLime50;    
-$colorColorBorderBrandDefault: $colorBaseColorsBlue600;    
+$colorColorBorderBrandDefault: $colorBrand600;    
 $colorColorBgAccentLimeLightestHovered: $colorBaseColorsLime200;    
 $colorColorBgAccentLimeLightestPressed: $colorBaseColorsLime300;    
-$colorColorBorderBrandBold: $colorBaseColorsBlue900;    
-$colorColorBorderBrandLight: $colorBaseColorsBlue300;    
+$colorColorBorderBrandBold: $colorBrand900;    
+$colorColorBorderBrandLight: $colorBrand300;    
 $colorColorBgAccentLimeLighterDefault: $colorBaseColorsLime200;    
 $colorColorBorderSupportDangerDefault: $colorBaseColorsRed500;    
 $colorColorBorderSupportDangerLight: $colorBaseColorsRed300;    
@@ -511,3 +519,8 @@ $colorColorBorderSelected: $colorBaseColorsBlue200;
 $colorColorBgNeutralBolderDefault: $colorBaseColorsGrey800;    
 $colorColorBgNeutralBolderHovered: $colorBaseColorsGrey900;    
 $colorColorBgNeutralBolderPressed: $colorBaseColorsGrey1000;    
+$colorColorBgBrandMakenBoldDefault: $colorBaseColorsPurple600;    
+$colorColorBgBrandMakenBoldHovered: $colorBaseColorsPurple700;    
+$colorColorBgBrandMakenBoldPressed: $colorBaseColorsPurple800;    
+$colorBrand500: $colorBaseColorsBlue500;    
+$colorBrand1000: $colorBaseColorsBlue1000;    
