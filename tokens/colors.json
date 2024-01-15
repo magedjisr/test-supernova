@@ -1,5 +1,17 @@
 {
   "color": {
+    "base": {
+      "color": {
+        "containers": {
+          "white": {
+            "skeleton-bone": {
+              "value": "#f2f4f7ff",
+              "type": "color"
+            }
+          }
+        }
+      }
+    },
     "color": {
       "border": {
         "brand": {
