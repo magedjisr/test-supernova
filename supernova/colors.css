@@ -203,20 +203,25 @@
     --colorColorBgAccentRedLightestPressed: var(--colorBaseColorsRed300);    
     --colorColorBgBrandLightestDefault: var(--colorBaseColorsBlue50);    
     --colorColorBgBrandLightestPressed: var(--colorBaseColorsBlue200);    
-    --colorColorBgBrandLightDefault: var(--colorBaseColorsBlue200);    
-    --colorColorBgBrandLightHovered: var(--colorBaseColorsBlue400);    
+    --colorBrand200: var(--colorBaseColorsBlue200);    
+    --colorColorBgBrandLightDefault: var(--colorBrand200);    
+    --colorBrand400: var(--colorBaseColorsBlue400);    
+    --colorColorBgBrandLightHovered: var(--colorBrand400);    
     --colorColorBgBrandLightestHovered: var(--colorBaseColorsBlue100);    
-    --colorColorBgBrandLightPressed: var(--colorBaseColorsBlue300);    
+    --colorBrand300: var(--colorBaseColorsBlue300);    
+    --colorColorBgBrandLightPressed: var(--colorBrand300);    
     --colorColorBgDangerLightDefault: var(--colorBaseColorsRed100);    
     --colorColorBgDangerLightHovered: var(--colorBaseColorsRed200);    
     --colorColorBgDangerBoldDefault: var(--colorBaseColorsRed500);    
     --colorColorBgDangerBoldHovered: var(--colorBaseColorsRed600);    
     --colorColorBgDangerLightPressed: var(--colorBaseColorsRed300);    
     --colorColorBgDangerBoldPressed: var(--colorBaseColorsRed700);    
-    --colorColorBgBrandBoldDefault: var(--colorBaseColorsBlue600);    
+    --colorBrand600: var(--colorBaseColorsBlue600);    
+    --colorColorBgBrandBoldDefault: var(--colorBrand600);    
     /* Use for links in default or hovered state. Add underline for hovered states. */
     --colorColorLinkDefault: var(--colorColorBgBrandBoldDefault);    
-    --colorColorBgBrandBoldPressed: var(--colorBaseColorsBlue800);    
+    --colorBrand800: var(--colorBaseColorsBlue800);    
+    --colorColorBgBrandBoldPressed: var(--colorBrand800);    
     /* Use for links in a pressed state */
     --colorColorLinkPressed: var(--colorColorBgBrandBoldPressed);    
     /* Use for links in a visited state */
@@ -249,7 +254,8 @@
     --colorColorBgInfoLightPressed: var(--colorBaseColorsLightblue300);    
     --colorColorBgInfoBoldHovered: var(--colorBaseColorsLightblue600);    
     --colorColorBgInfoBoldPressed: var(--colorBaseColorsLightblue700);    
-    --colorColorBgBrandBoldHovered: var(--colorBaseColorsBlue700);    
+    --colorBrand700: var(--colorBaseColorsBlue700);    
+    --colorColorBgBrandBoldHovered: var(--colorBrand700);    
     --colorColorBgAccentRedLighterDefault: var(--colorBaseColorsRed200);    
     --colorColorBgAccentRedLighterHovered: var(--colorBaseColorsRed300);    
     --colorColorBgAccentRedLighterPressed: var(--colorBaseColorsRed400);    
@@ -303,9 +309,10 @@
     --colorColorBgAccentOrangeBoldDefault: var(--colorBaseColorsOrange700);    
     --colorColorBgAccentOrangeBoldHovered: var(--colorBaseColorsOrange800);    
     --colorColorBgAccentOrangeBoldPressed: var(--colorBaseColorsOrange900);    
-    --colorColorBgBrandLighterDefault: var(--colorBaseColorsBlue100);    
-    --colorColorBgBrandLighterPressed: var(--colorBaseColorsBlue300);    
-    --colorColorBgBrandLighterHovered: var(--colorBaseColorsBlue200);    
+    --colorBrand100: var(--colorBaseColorsBlue100);    
+    --colorColorBgBrandLighterDefault: var(--colorBrand100);    
+    --colorColorBgBrandLighterPressed: var(--colorBrand300);    
+    --colorColorBgBrandLighterHovered: var(--colorBrand200);    
     /* Use for primary text, such as body copy, sentence case headers;  Use as hover text color for $text-light */
     --colorColorFgDefault: var(--colorBaseColorsGrey900);    
     /* Use for secondary text, such as navigation, light button links, Inputs labels color; Use as hover text color for $text-lighter */
@@ -337,13 +344,14 @@
     /* Use for tertiary text, such as helper text and meta-data; */
     --colorColorFgLighter: var(--colorBaseColorsGrey600);    
     /* Use for text in selected or opened states. */
-    --colorColorFgSelected: var(--colorBaseColorsBlue800);    
+    --colorColorFgSelected: var(--colorBrand800);    
     /* Use for disabled text state. */
     --colorColorFgDisabled: var(--colorBaseColorsBlack500);    
     /* Use for text that reinforces our brand. */
-    --colorColorFgBrandDefault: var(--colorBaseColorsBlue700);    
+    --colorColorFgBrandDefault: var(--colorBrand700);    
+    --colorBrand900: var(--colorBaseColorsBlue900);    
     /* Use for text that reinforces our brand. */
-    --colorColorFgBrandBolder: var(--colorBaseColorsBlue900);    
+    --colorColorFgBrandBolder: var(--colorBrand900);    
     /* Use for text on interactive and bold backgrounds. */
     --colorColorFgInverseLight: var(--colorBaseColorsWhite800);    
     --colorColorFgAccentRedDefault: var(--colorBaseColorsRed500);    
@@ -380,9 +388,9 @@
     --colorColorBgInfoLightestDefault: var(--colorBaseColorsLightblue50);    
     --colorColorBgInfoLightestHovered: var(--colorBaseColorsLightblue100);    
     --colorColorBgInfoLightestPressed: var(--colorBaseColorsLightblue200);    
-    --colorColorBgBrandBolderDefault: var(--colorBaseColorsBlue700);    
-    --colorColorBgBrandBolderHovered: var(--colorBaseColorsBlue800);    
-    --colorColorBgBrandBolderPressed: var(--colorBaseColorsBlue900);    
+    --colorColorBgBrandBolderDefault: var(--colorBrand700);    
+    --colorColorBgBrandBolderHovered: var(--colorBrand800);    
+    --colorColorBgBrandBolderPressed: var(--colorBrand900);    
     --colorColorBgAccentPinkLightestDefault: var(--colorBaseColorsPink50);    
     --colorColorBgAccentPinkLightestHovered: var(--colorBaseColorsPink200);    
     --colorColorBgAccentPinkLightestPressed: var(--colorBaseColorsPink300);    
@@ -456,11 +464,11 @@
     --colorColorBgAccentTealBoldHovered: var(--colorBaseColorsTeal800);    
     --colorColorBgAccentTealBoldPressed: var(--colorBaseColorsTeal900);    
     --colorColorBgAccentLimeLightestDefault: var(--colorBaseColorsLime50);    
-    --colorColorBorderBrandDefault: var(--colorBaseColorsBlue600);    
+    --colorColorBorderBrandDefault: var(--colorBrand600);    
     --colorColorBgAccentLimeLightestHovered: var(--colorBaseColorsLime200);    
     --colorColorBgAccentLimeLightestPressed: var(--colorBaseColorsLime300);    
-    --colorColorBorderBrandBold: var(--colorBaseColorsBlue900);    
-    --colorColorBorderBrandLight: var(--colorBaseColorsBlue300);    
+    --colorColorBorderBrandBold: var(--colorBrand900);    
+    --colorColorBorderBrandLight: var(--colorBrand300);    
     --colorColorBgAccentLimeLighterDefault: var(--colorBaseColorsLime200);    
     --colorColorBorderSupportDangerDefault: var(--colorBaseColorsRed500);    
     --colorColorBorderSupportDangerLight: var(--colorBaseColorsRed300);    
@@ -516,4 +524,6 @@
     --colorColorBgBrandMakenBoldDefault: var(--colorBaseColorsPurple600);    
     --colorColorBgBrandMakenBoldHovered: var(--colorBaseColorsPurple700);    
     --colorColorBgBrandMakenBoldPressed: var(--colorBaseColorsPurple800);    
+    --colorBrand500: var(--colorBaseColorsBlue500);    
+    --colorBrand1000: var(--colorBaseColorsBlue1000);    
 }
