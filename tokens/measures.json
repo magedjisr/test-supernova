@@ -185,6 +185,18 @@
           "type": "measure"
         }
       },
+      "size": {
+        "size-100": {
+          "value": "{measure.dimension.spacing.spacing-1.value}",
+          "type": "measure"
+        }
+      },
+      "border-width": {
+        "xxx-small": {
+          "value": "{measure.dimension.spacing.spacing-1.value}",
+          "type": "measure"
+        }
+      },
       "opacity": {
         "disabled": {
           "value": {
@@ -261,18 +273,6 @@
         },
         "xxx-large": {
           "value": "{measure.dimension.dimension.size-24.value}",
-          "type": "measure"
-        }
-      },
-      "size": {
-        "size-100": {
-          "value": "{measure.dimension.spacing.spacing-1.value}",
-          "type": "measure"
-        }
-      },
-      "border-width": {
-        "xxx-small": {
-          "value": "{measure.dimension.spacing.spacing-1.value}",
           "type": "measure"
         }
       },

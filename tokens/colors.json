@@ -1221,11 +1221,11 @@
               "type": "color"
             },
             "pressed": {
-              "value": "{color.base-colors.blue.200.value}",
+              "value": "{color.base-colors.blue.300.value}",
               "type": "color"
             },
             "hovered": {
-              "value": "{color.base-colors.blue.300.value}",
+              "value": "{color.base-colors.blue.200.value}",
               "type": "color"
             }
           },
@@ -1255,6 +1255,22 @@
             "hovered": {
               "value": "{color.base-colors.blue.700.value}",
               "type": "color"
+            }
+          },
+          "maken": {
+            "bold": {
+              "default": {
+                "value": "{color.base-colors.purple.600.value}",
+                "type": "color"
+              },
+              "hovered": {
+                "value": "{color.base-colors.purple.700.value}",
+                "type": "color"
+              },
+              "pressed": {
+                "value": "{color.base-colors.purple.800.value}",
+                "type": "color"
+              }
             }
           }
         },
