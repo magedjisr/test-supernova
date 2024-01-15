@@ -228,39 +228,39 @@
           "type": "measure"
         },
         "xxx-small": {
-          "value": "{measure.dimension.spacing.spacing-1.value}",
+          "value": "{measure.dimension.dimension.size-2.value}",
           "type": "measure"
         },
         "xx-small": {
-          "value": "{measure.dimension.spacing.spacing-2.value}",
+          "value": "{measure.dimension.dimension.size-3.value}",
           "type": "measure"
         },
         "x-small": {
-          "value": "{measure.dimension.spacing.spacing-3.value}",
+          "value": "{measure.dimension.dimension.size-4.value}",
           "type": "measure"
         },
         "small": {
-          "value": "{measure.dimension.spacing.spacing-4.value}",
+          "value": "{measure.dimension.dimension.size-5.value}",
           "type": "measure"
         },
         "medium": {
-          "value": "{measure.dimension.spacing.spacing-5.value}",
+          "value": "{measure.dimension.dimension.size-7.value}",
           "type": "measure"
         },
         "large": {
-          "value": "{measure.dimension.spacing.spacing-6.value}",
+          "value": "{measure.dimension.dimension.size-9.value}",
           "type": "measure"
         },
         "x-large": {
-          "value": "{measure.dimension.spacing.spacing-7.value}",
+          "value": "{measure.dimension.dimension.size-13.value}",
           "type": "measure"
         },
         "xx-large": {
-          "value": "{measure.dimension.spacing.spacing-9.value}",
+          "value": "{measure.dimension.dimension.size-17.value}",
           "type": "measure"
         },
         "xxx-large": {
-          "value": "{measure.dimension.spacing.spacing-10.value}",
+          "value": "{measure.dimension.dimension.size-24.value}",
           "type": "measure"
         }
       },
@@ -278,39 +278,39 @@
       },
       "gap": {
         "xxx-small": {
-          "value": "{measure.dimension.spacing.spacing-1.value}",
+          "value": "{measure.dimension.dimension.size-2.value}",
           "type": "measure"
         },
         "xx-small": {
-          "value": "{measure.dimension.spacing.spacing-2.value}",
+          "value": "{measure.dimension.dimension.size-3.value}",
           "type": "measure"
         },
         "x-small": {
-          "value": "{measure.dimension.spacing.spacing-3.value}",
+          "value": "{measure.dimension.dimension.size-4.value}",
           "type": "measure"
         },
         "small": {
-          "value": "{measure.dimension.spacing.spacing-4.value}",
+          "value": "{measure.dimension.dimension.size-5.value}",
           "type": "measure"
         },
         "medium": {
-          "value": "{measure.dimension.spacing.spacing-5.value}",
+          "value": "{measure.dimension.dimension.size-7.value}",
           "type": "measure"
         },
         "large": {
-          "value": "{measure.dimension.spacing.spacing-6.value}",
+          "value": "{measure.dimension.dimension.size-9.value}",
           "type": "measure"
         },
         "x-large": {
-          "value": "{measure.dimension.spacing.spacing-7.value}",
+          "value": "{measure.dimension.dimension.size-11.value}",
           "type": "measure"
         },
         "xx-large": {
-          "value": "{measure.dimension.spacing.spacing-9.value}",
+          "value": "{measure.dimension.dimension.size-13.value}",
           "type": "measure"
         },
         "xxx-large": {
-          "value": "{measure.dimension.spacing.spacing-10.value}",
+          "value": "{measure.dimension.dimension.size-17.value}",
           "type": "measure"
         }
       },
