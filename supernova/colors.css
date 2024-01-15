@@ -304,8 +304,8 @@
     --colorColorBgAccentOrangeBoldHovered: var(--colorBaseColorsOrange800);    
     --colorColorBgAccentOrangeBoldPressed: var(--colorBaseColorsOrange900);    
     --colorColorBgBrandLighterDefault: var(--colorBaseColorsBlue100);    
-    --colorColorBgBrandLighterPressed: var(--colorBaseColorsBlue200);    
-    --colorColorBgBrandLighterHovered: var(--colorBaseColorsBlue300);    
+    --colorColorBgBrandLighterPressed: var(--colorBaseColorsBlue300);    
+    --colorColorBgBrandLighterHovered: var(--colorBaseColorsBlue200);    
     /* Use for primary text, such as body copy, sentence case headers;  Use as hover text color for $text-light */
     --colorColorFgDefault: var(--colorBaseColorsGrey900);    
     /* Use for secondary text, such as navigation, light button links, Inputs labels color; Use as hover text color for $text-lighter */
@@ -513,4 +513,7 @@
     --colorColorBgNeutralBolderDefault: var(--colorBaseColorsGrey800);    
     --colorColorBgNeutralBolderHovered: var(--colorBaseColorsGrey900);    
     --colorColorBgNeutralBolderPressed: var(--colorBaseColorsGrey1000);    
+    --colorColorBgBrandMakenBoldDefault: var(--colorBaseColorsPurple600);    
+    --colorColorBgBrandMakenBoldHovered: var(--colorBaseColorsPurple700);    
+    --colorColorBgBrandMakenBoldPressed: var(--colorBaseColorsPurple800);    
 }
