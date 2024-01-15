@@ -1,5 +1,47 @@
 {
   "color": {
+    "brand": {
+      "100": {
+        "value": "{color.base-colors.blue.100.value}",
+        "type": "color"
+      },
+      "200": {
+        "value": "{color.base-colors.blue.200.value}",
+        "type": "color"
+      },
+      "300": {
+        "value": "{color.base-colors.blue.300.value}",
+        "type": "color"
+      },
+      "400": {
+        "value": "{color.base-colors.blue.400.value}",
+        "type": "color"
+      },
+      "500": {
+        "value": "{color.base-colors.blue.500.value}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{color.base-colors.blue.600.value}",
+        "type": "color"
+      },
+      "700": {
+        "value": "{color.base-colors.blue.700.value}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{color.base-colors.blue.800.value}",
+        "type": "color"
+      },
+      "900": {
+        "value": "{color.base-colors.blue.900.value}",
+        "type": "color"
+      },
+      "1000": {
+        "value": "{color.base-colors.blue.1000.value}",
+        "type": "color"
+      }
+    },
     "base": {
       "color": {
         "containers": {
@@ -258,12 +300,12 @@
         },
         "brand": {
           "default": {
-            "value": "{color.base-colors.blue.700.value}",
+            "value": "{color.brand.700.value}",
             "type": "color",
             "comment": "Use for text that reinforces our brand."
           },
           "bolder": {
-            "value": "{color.base-colors.blue.900.value}",
+            "value": "{color.brand.900.value}",
             "type": "color",
             "comment": "Use for text that reinforces our brand."
           }
@@ -406,7 +448,7 @@
           "comment": "Use for tertiary text, such as helper text and meta-data;"
         },
         "selected": {
-          "value": "{color.base-colors.blue.800.value}",
+          "value": "{color.brand.800.value}",
           "type": "color",
           "comment": "Use for text in selected or opened states."
         },
@@ -1189,15 +1231,15 @@
         "brand": {
           "bolder": {
             "default": {
-              "value": "{color.base-colors.blue.700.value}",
+              "value": "{color.brand.700.value}",
               "type": "color"
             },
             "hovered": {
-              "value": "{color.base-colors.blue.800.value}",
+              "value": "{color.brand.800.value}",
               "type": "color"
             },
             "pressed": {
-              "value": "{color.base-colors.blue.900.value}",
+              "value": "{color.brand.900.value}",
               "type": "color"
             }
           },
@@ -1217,43 +1259,43 @@
           },
           "lighter": {
             "default": {
-              "value": "{color.base-colors.blue.100.value}",
+              "value": "{color.brand.100.value}",
               "type": "color"
             },
             "pressed": {
-              "value": "{color.base-colors.blue.300.value}",
+              "value": "{color.brand.300.value}",
               "type": "color"
             },
             "hovered": {
-              "value": "{color.base-colors.blue.200.value}",
+              "value": "{color.brand.200.value}",
               "type": "color"
             }
           },
           "light": {
             "default": {
-              "value": "{color.base-colors.blue.200.value}",
+              "value": "{color.brand.200.value}",
               "type": "color"
             },
             "hovered": {
-              "value": "{color.base-colors.blue.400.value}",
+              "value": "{color.brand.400.value}",
               "type": "color"
             },
             "pressed": {
-              "value": "{color.base-colors.blue.300.value}",
+              "value": "{color.brand.300.value}",
               "type": "color"
             }
           },
           "bold": {
             "default": {
-              "value": "{color.base-colors.blue.600.value}",
+              "value": "{color.brand.600.value}",
               "type": "color"
             },
             "pressed": {
-              "value": "{color.base-colors.blue.800.value}",
+              "value": "{color.brand.800.value}",
               "type": "color"
             },
             "hovered": {
-              "value": "{color.base-colors.blue.700.value}",
+              "value": "{color.brand.700.value}",
               "type": "color"
             }
           },
