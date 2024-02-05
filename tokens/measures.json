@@ -197,123 +197,6 @@
           "type": "measure"
         }
       },
-      "opacity": {
-        "disabled": {
-          "value": {
-            "measure": {
-              "type": "size",
-              "value": 40
-            },
-            "unit": {
-              "type": "string",
-              "value": "pixels"
-            }
-          },
-          "type": "measure"
-        }
-      },
-      "radius": {
-        "none": {
-          "value": {
-            "measure": {
-              "type": "size",
-              "value": 0
-            },
-            "unit": {
-              "type": "string",
-              "value": "pixels"
-            }
-          },
-          "type": "measure"
-        },
-        "round": {
-          "value": {
-            "measure": {
-              "type": "size",
-              "value": 100000
-            },
-            "unit": {
-              "type": "string",
-              "value": "pixels"
-            }
-          },
-          "type": "measure"
-        },
-        "xxx-small": {
-          "value": "{measure.dimension.dimension.size-2.value}",
-          "type": "measure"
-        },
-        "xx-small": {
-          "value": "{measure.dimension.dimension.size-3.value}",
-          "type": "measure"
-        },
-        "x-small": {
-          "value": "{measure.dimension.dimension.size-4.value}",
-          "type": "measure"
-        },
-        "small": {
-          "value": "{measure.dimension.dimension.size-5.value}",
-          "type": "measure"
-        },
-        "medium": {
-          "value": "{measure.dimension.dimension.size-7.value}",
-          "type": "measure"
-        },
-        "large": {
-          "value": "{measure.dimension.dimension.size-9.value}",
-          "type": "measure"
-        },
-        "x-large": {
-          "value": "{measure.dimension.dimension.size-13.value}",
-          "type": "measure"
-        },
-        "xx-large": {
-          "value": "{measure.dimension.dimension.size-17.value}",
-          "type": "measure"
-        },
-        "xxx-large": {
-          "value": "{measure.dimension.dimension.size-24.value}",
-          "type": "measure"
-        }
-      },
-      "gap": {
-        "xxx-small": {
-          "value": "{measure.dimension.dimension.size-2.value}",
-          "type": "measure"
-        },
-        "xx-small": {
-          "value": "{measure.dimension.dimension.size-3.value}",
-          "type": "measure"
-        },
-        "x-small": {
-          "value": "{measure.dimension.dimension.size-4.value}",
-          "type": "measure"
-        },
-        "small": {
-          "value": "{measure.dimension.dimension.size-5.value}",
-          "type": "measure"
-        },
-        "medium": {
-          "value": "{measure.dimension.dimension.size-7.value}",
-          "type": "measure"
-        },
-        "large": {
-          "value": "{measure.dimension.dimension.size-9.value}",
-          "type": "measure"
-        },
-        "x-large": {
-          "value": "{measure.dimension.dimension.size-11.value}",
-          "type": "measure"
-        },
-        "xx-large": {
-          "value": "{measure.dimension.dimension.size-13.value}",
-          "type": "measure"
-        },
-        "xxx-large": {
-          "value": "{measure.dimension.dimension.size-17.value}",
-          "type": "measure"
-        }
-      },
       "dimension": {
         "size-0": {
           "value": {
@@ -846,6 +729,123 @@
               "value": "pixels"
             }
           },
+          "type": "measure"
+        }
+      },
+      "opacity": {
+        "disabled": {
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 40
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          },
+          "type": "measure"
+        }
+      },
+      "radius": {
+        "none": {
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 0
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          },
+          "type": "measure"
+        },
+        "round": {
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 100000
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          },
+          "type": "measure"
+        },
+        "xxx-small": {
+          "value": "{measure.dimension.dimension.size-2.value}",
+          "type": "measure"
+        },
+        "xx-small": {
+          "value": "{measure.dimension.dimension.size-3.value}",
+          "type": "measure"
+        },
+        "x-small": {
+          "value": "{measure.dimension.dimension.size-4.value}",
+          "type": "measure"
+        },
+        "small": {
+          "value": "{measure.dimension.dimension.size-5.value}",
+          "type": "measure"
+        },
+        "medium": {
+          "value": "{measure.dimension.dimension.size-7.value}",
+          "type": "measure"
+        },
+        "large": {
+          "value": "{measure.dimension.dimension.size-9.value}",
+          "type": "measure"
+        },
+        "x-large": {
+          "value": "{measure.dimension.dimension.size-13.value}",
+          "type": "measure"
+        },
+        "xx-large": {
+          "value": "{measure.dimension.dimension.size-17.value}",
+          "type": "measure"
+        },
+        "xxx-large": {
+          "value": "{measure.dimension.dimension.size-24.value}",
+          "type": "measure"
+        }
+      },
+      "gap": {
+        "xxx-small": {
+          "value": "{measure.dimension.dimension.size-2.value}",
+          "type": "measure"
+        },
+        "xx-small": {
+          "value": "{measure.dimension.dimension.size-3.value}",
+          "type": "measure"
+        },
+        "x-small": {
+          "value": "{measure.dimension.dimension.size-4.value}",
+          "type": "measure"
+        },
+        "small": {
+          "value": "{measure.dimension.dimension.size-5.value}",
+          "type": "measure"
+        },
+        "medium": {
+          "value": "{measure.dimension.dimension.size-7.value}",
+          "type": "measure"
+        },
+        "large": {
+          "value": "{measure.dimension.dimension.size-9.value}",
+          "type": "measure"
+        },
+        "x-large": {
+          "value": "{measure.dimension.dimension.size-11.value}",
+          "type": "measure"
+        },
+        "xx-large": {
+          "value": "{measure.dimension.dimension.size-13.value}",
+          "type": "measure"
+        },
+        "xxx-large": {
+          "value": "{measure.dimension.dimension.size-17.value}",
           "type": "measure"
         }
       },
