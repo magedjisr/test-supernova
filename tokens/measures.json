@@ -197,8 +197,8 @@
           "type": "measure"
         }
       },
-      "dimension": {
-        "size-0": {
+      "core-size": {
+        "0": {
           "value": {
             "measure": {
               "type": "size",
@@ -211,7 +211,7 @@
           },
           "type": "measure"
         },
-        "size-1": {
+        "1": {
           "value": {
             "measure": {
               "type": "size",
@@ -224,7 +224,7 @@
           },
           "type": "measure"
         },
-        "size-2": {
+        "2": {
           "value": {
             "measure": {
               "type": "size",
@@ -237,7 +237,7 @@
           },
           "type": "measure"
         },
-        "size-3": {
+        "4": {
           "value": {
             "measure": {
               "type": "size",
@@ -250,7 +250,7 @@
           },
           "type": "measure"
         },
-        "size-4": {
+        "6": {
           "value": {
             "measure": {
               "type": "size",
@@ -263,7 +263,7 @@
           },
           "type": "measure"
         },
-        "size-5": {
+        "8": {
           "value": {
             "measure": {
               "type": "size",
@@ -276,7 +276,7 @@
           },
           "type": "measure"
         },
-        "size-6": {
+        "10": {
           "value": {
             "measure": {
               "type": "size",
@@ -289,7 +289,7 @@
           },
           "type": "measure"
         },
-        "size-7": {
+        "12": {
           "value": {
             "measure": {
               "type": "size",
@@ -302,7 +302,7 @@
           },
           "type": "measure"
         },
-        "size-8": {
+        "14": {
           "value": {
             "measure": {
               "type": "size",
@@ -315,7 +315,7 @@
           },
           "type": "measure"
         },
-        "size-9": {
+        "16": {
           "value": {
             "measure": {
               "type": "size",
@@ -328,7 +328,7 @@
           },
           "type": "measure"
         },
-        "size-10": {
+        "18": {
           "value": {
             "measure": {
               "type": "size",
@@ -341,7 +341,7 @@
           },
           "type": "measure"
         },
-        "size-11": {
+        "20": {
           "value": {
             "measure": {
               "type": "size",
@@ -354,7 +354,7 @@
           },
           "type": "measure"
         },
-        "size-12": {
+        "22": {
           "value": {
             "measure": {
               "type": "size",
@@ -367,7 +367,7 @@
           },
           "type": "measure"
         },
-        "size-13": {
+        "24": {
           "value": {
             "measure": {
               "type": "size",
@@ -380,7 +380,7 @@
           },
           "type": "measure"
         },
-        "size-14": {
+        "26": {
           "value": {
             "measure": {
               "type": "size",
@@ -393,7 +393,7 @@
           },
           "type": "measure"
         },
-        "size-15": {
+        "28": {
           "value": {
             "measure": {
               "type": "size",
@@ -406,7 +406,7 @@
           },
           "type": "measure"
         },
-        "size-16": {
+        "30": {
           "value": {
             "measure": {
               "type": "size",
@@ -419,7 +419,7 @@
           },
           "type": "measure"
         },
-        "size-17": {
+        "32": {
           "value": {
             "measure": {
               "type": "size",
@@ -432,7 +432,7 @@
           },
           "type": "measure"
         },
-        "size-18": {
+        "36": {
           "value": {
             "measure": {
               "type": "size",
@@ -445,7 +445,7 @@
           },
           "type": "measure"
         },
-        "size-19": {
+        "38": {
           "value": {
             "measure": {
               "type": "size",
@@ -458,7 +458,7 @@
           },
           "type": "measure"
         },
-        "size-20": {
+        "40": {
           "value": {
             "measure": {
               "type": "size",
@@ -471,7 +471,7 @@
           },
           "type": "measure"
         },
-        "size-21": {
+        "42": {
           "value": {
             "measure": {
               "type": "size",
@@ -484,7 +484,7 @@
           },
           "type": "measure"
         },
-        "size-22": {
+        "44": {
           "value": {
             "measure": {
               "type": "size",
@@ -497,7 +497,7 @@
           },
           "type": "measure"
         },
-        "size-23": {
+        "46": {
           "value": {
             "measure": {
               "type": "size",
@@ -510,7 +510,7 @@
           },
           "type": "measure"
         },
-        "size-24": {
+        "48": {
           "value": {
             "measure": {
               "type": "size",
@@ -523,7 +523,7 @@
           },
           "type": "measure"
         },
-        "size-25": {
+        "50": {
           "value": {
             "measure": {
               "type": "size",
@@ -536,7 +536,7 @@
           },
           "type": "measure"
         },
-        "size-26": {
+        "52": {
           "value": {
             "measure": {
               "type": "size",
@@ -549,7 +549,7 @@
           },
           "type": "measure"
         },
-        "size-28": {
+        "54": {
           "value": {
             "measure": {
               "type": "size",
@@ -562,7 +562,7 @@
           },
           "type": "measure"
         },
-        "size-29": {
+        "56": {
           "value": {
             "measure": {
               "type": "size",
@@ -575,7 +575,7 @@
           },
           "type": "measure"
         },
-        "size-30": {
+        "58": {
           "value": {
             "measure": {
               "type": "size",
@@ -588,7 +588,7 @@
           },
           "type": "measure"
         },
-        "size-40": {
+        "60": {
           "value": {
             "measure": {
               "type": "size",
@@ -601,7 +601,7 @@
           },
           "type": "measure"
         },
-        "size-41": {
+        "62": {
           "value": {
             "measure": {
               "type": "size",
@@ -614,7 +614,7 @@
           },
           "type": "measure"
         },
-        "size-42": {
+        "64": {
           "value": {
             "measure": {
               "type": "size",
@@ -627,7 +627,7 @@
           },
           "type": "measure"
         },
-        "size-43": {
+        "68": {
           "value": {
             "measure": {
               "type": "size",
@@ -640,7 +640,7 @@
           },
           "type": "measure"
         },
-        "size-44": {
+        "70": {
           "value": {
             "measure": {
               "type": "size",
@@ -653,7 +653,7 @@
           },
           "type": "measure"
         },
-        "size-45": {
+        "72": {
           "value": {
             "measure": {
               "type": "size",
@@ -666,7 +666,7 @@
           },
           "type": "measure"
         },
-        "size-46": {
+        "74": {
           "value": {
             "measure": {
               "type": "size",
@@ -679,7 +679,7 @@
           },
           "type": "measure"
         },
-        "size-47": {
+        "76": {
           "value": {
             "measure": {
               "type": "size",
@@ -692,7 +692,7 @@
           },
           "type": "measure"
         },
-        "size-48": {
+        "78": {
           "value": {
             "measure": {
               "type": "size",
@@ -705,7 +705,7 @@
           },
           "type": "measure"
         },
-        "size-49": {
+        "80": {
           "value": {
             "measure": {
               "type": "size",
@@ -718,26 +718,11 @@
           },
           "type": "measure"
         },
-        "size-50": {
+        "82": {
           "value": {
             "measure": {
               "type": "size",
               "value": 82
-            },
-            "unit": {
-              "type": "string",
-              "value": "pixels"
-            }
-          },
-          "type": "measure"
-        }
-      },
-      "opacity": {
-        "disabled": {
-          "value": {
-            "measure": {
-              "type": "size",
-              "value": 40
             },
             "unit": {
               "type": "string",
@@ -775,80 +760,122 @@
           "type": "measure"
         },
         "xxx-small": {
-          "value": "{measure.dimension.dimension.size-2.value}",
+          "value": "{measure.dimension.core-size.2.value}",
           "type": "measure"
         },
         "xx-small": {
-          "value": "{measure.dimension.dimension.size-3.value}",
+          "value": "{measure.dimension.core-size.4.value}",
           "type": "measure"
         },
         "x-small": {
-          "value": "{measure.dimension.dimension.size-4.value}",
+          "value": "{measure.dimension.core-size.6.value}",
           "type": "measure"
         },
         "small": {
-          "value": "{measure.dimension.dimension.size-5.value}",
+          "value": "{measure.dimension.core-size.8.value}",
           "type": "measure"
         },
         "medium": {
-          "value": "{measure.dimension.dimension.size-7.value}",
+          "value": "{measure.dimension.core-size.12.value}",
           "type": "measure"
         },
         "large": {
-          "value": "{measure.dimension.dimension.size-9.value}",
+          "value": "{measure.dimension.core-size.16.value}",
           "type": "measure"
         },
         "x-large": {
-          "value": "{measure.dimension.dimension.size-13.value}",
+          "value": "{measure.dimension.core-size.24.value}",
           "type": "measure"
         },
         "xx-large": {
-          "value": "{measure.dimension.dimension.size-17.value}",
+          "value": "{measure.dimension.core-size.32.value}",
           "type": "measure"
         },
         "xxx-large": {
-          "value": "{measure.dimension.dimension.size-24.value}",
+          "value": "{measure.dimension.core-size.48.value}",
           "type": "measure"
         }
       },
       "gap": {
+        "none": {
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 0
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          },
+          "type": "measure"
+        },
         "xxx-small": {
-          "value": "{measure.dimension.dimension.size-2.value}",
+          "value": "{measure.dimension.core-size.2.value}",
           "type": "measure"
         },
         "xx-small": {
-          "value": "{measure.dimension.dimension.size-3.value}",
+          "value": "{measure.dimension.core-size.4.value}",
           "type": "measure"
         },
         "x-small": {
-          "value": "{measure.dimension.dimension.size-4.value}",
+          "value": "{measure.dimension.core-size.6.value}",
           "type": "measure"
         },
         "small": {
-          "value": "{measure.dimension.dimension.size-5.value}",
+          "value": "{measure.dimension.core-size.8.value}",
           "type": "measure"
         },
         "medium": {
-          "value": "{measure.dimension.dimension.size-7.value}",
+          "value": "{measure.dimension.core-size.12.value}",
           "type": "measure"
         },
         "large": {
-          "value": "{measure.dimension.dimension.size-9.value}",
+          "value": "{measure.dimension.core-size.16.value}",
           "type": "measure"
         },
         "x-large": {
-          "value": "{measure.dimension.dimension.size-11.value}",
+          "value": "{measure.dimension.core-size.20.value}",
           "type": "measure"
         },
         "xx-large": {
-          "value": "{measure.dimension.dimension.size-13.value}",
+          "value": "{measure.dimension.core-size.24.value}",
           "type": "measure"
         },
         "xxx-large": {
-          "value": "{measure.dimension.dimension.size-17.value}",
+          "value": "{measure.dimension.core-size.32.value}",
           "type": "measure"
         }
       },
+      "opacity": {
+        "10": {
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 10
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          },
+          "type": "measure"
+        },
+        "disabled": {
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 40
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          },
+          "type": "measure"
+        }
+      },
+      "dimension": {},
       "_spacing": {}
     },
     "opacity": {},
