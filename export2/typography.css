@@ -1,0 +1,643 @@
+@tailwind utilities;
+
+@layer utilities {
+   
+  .typography-en-interface-medium-sm {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 100%;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-en-interface-medium-m {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-en-subheading {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-en-title-1 {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 150%;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-en-subtitle-1 {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 140%;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-en-caption {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 150%;
+    letter-spacing: 0.02em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-en-body-new-regular {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 140%;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-en-body-new-medium {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 140%;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-en-body-new-semibold {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 140%;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-en-body-new-bold {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 140%;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-en-interface-default-s {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 100%;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-en-interface-default-sm {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 100%;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-en-interface-default-m {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-en-interface-default-ml {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-en-interface-default-l {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 100%;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-en-interface-medium-s {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 100%;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-en-interface-medium-ml {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-en-interface-medium-l {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 100%;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-en-interface-strong-xxs {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 8px;
+    line-height: 100%;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-en-interface-strong-s {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 100%;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-en-interface-strong-sm {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 100%;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-en-interface-strong-m {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-en-interface-strong-ml {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-en-interface-strong-l {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 100%;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-ar-subheading {
+    font-family: "SST Arabic";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-ar-title-1 {
+    font-family: "SST Arabic";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 150%;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-ar-subtitle-1 {
+    font-family: "SST Arabic";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 140%;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-ar-caption {
+    font-family: "SST Arabic";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 150%;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-ar-heading {
+    font-family: "SST Arabic";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 130%;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-ar-body-new-regular {
+    font-family: "SST Arabic";
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 140%;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-ar-body-new-medium {
+    font-family: "SST Arabic";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 140%;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-ar-body-new-semibold {
+    font-family: "SST Arabic";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 140%;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-ar-body-new-bold {
+    font-family: "SST Arabic";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 140%;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-ar-interface-default-s {
+    font-family: "SST Arabic";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 100%;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-ar-interface-default-sm {
+    font-family: "SST Arabic";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 100%;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-ar-interface-default-m {
+    font-family: "SST Arabic";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-ar-interface-default-ml {
+    font-family: "SST Arabic";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-ar-interface-default-l {
+    font-family: "SST Arabic";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 100%;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-ar-interface-medium-sm {
+    font-family: "SST Arabic";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 100%;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-ar-interface-medium-m {
+    font-family: "SST Arabic";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-ar-interface-medium-ml {
+    font-family: "SST Arabic";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-ar-interface-medium-l {
+    font-family: "SST Arabic";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 100%;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-ar-interface-strong-xxs {
+    font-family: "SST Arabic";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 8px;
+    line-height: 100%;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-ar-interface-strong-s {
+    font-family: "SST Arabic";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 100%;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-ar-interface-strong-m {
+    font-family: "SST Arabic";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-ar-interface-strong-ml {
+    font-family: "SST Arabic";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-ar-interface-strong-l {
+    font-family: "SST Arabic";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 100%;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-en-subtitle-2 {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 140%;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-en-heading {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 130%;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-en-interface-underlined-s {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 100%;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-en-interface-underlined-sm {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 100%;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-ar-subtitle-2 {
+    font-family: "SST Arabic";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 140%;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-ar-interface-medium-s {
+    font-family: "SST Arabic";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 100%;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-ar-interface-strong-sm {
+    font-family: "SST Arabic";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 100%;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-ar-interface-underlined-s {
+    font-family: "SST Arabic";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 100%;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-ar-interface-underlined-sm {
+    font-family: "SST Arabic";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 100%;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-en-interface-medium-xxs {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 8px;
+    line-height: 100%;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-en-interface-medium-xs {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 100%;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+
+}
